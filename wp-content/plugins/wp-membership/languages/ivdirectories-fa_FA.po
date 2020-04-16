@@ -1,0 +1,1779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ivdirectories-fafa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-05 18:55+0600\n"
+"PO-Revision-Date: 2016-08-05 18:57+0600\n"
+"Last-Translator: mainadmin <mmehdi_4010@yahoo.com>\n"
+"Language-Team: eboniran <info@eboniran.com>\n"
+"Language: Persian (FA)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: fa_FA\n"
+"X-Crowdin-Project: ivdirectories-fafa\n"
+"X-Crowdin-Language: fa\n"
+"X-Crowdin-File: ivdirectories-fa_FA.po\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin.php:1201
+msgid "Sorry, BootstrapPress re requires WordPress "
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:193
+#: template/user-directory/directory-template-1.php:482
+#: template/user-directory/directory-template-2.php:452
+msgid "&laquo; Previous"
+msgstr "&laquo; قبلی"
+
+#: admin/pages/user_directory_admin.php:194
+#: template/user-directory/directory-template-1.php:483
+#: template/user-directory/directory-template-2.php:453
+msgid "Next &raquo;"
+msgstr "بعدی &raquo;"
+
+#: admin/pages/profile-fields.php:59
+#: template/private-profile/profile-template-1.php:482
+#: template/private-profile/profile-level-1.php:303
+msgid "Membership Level"
+msgstr "سطح عضویت"
+
+#: admin/pages/profile-fields.php:84
+msgid "Account Settings"
+msgstr "تنظیمات حساب کاربری"
+
+#: admin/pages/profile-fields.php:107
+#, fuzzy
+msgid "All post"
+msgstr "اضافه کردن فهرست"
+
+#: admin/pages/profile-fields.php:130
+#, fuzzy
+msgid "New post"
+msgstr "پست های اخیر"
+
+#: admin/pages/profile-fields.php:154
+msgid "Woocommerce Billing Address"
+msgstr ""
+
+#: admin/pages/settings.php:970
+#, fuzzy
+msgid "Tax Setting"
+msgstr "تنظیمات کاربر"
+
+#: admin/pages/settings.php:995
+msgid "Tax Module "
+msgstr ""
+
+#: admin/pages/settings.php:999
+msgid "Active Tax On Registration"
+msgstr ""
+
+#: admin/pages/settings.php:1004
+msgid "No Tax"
+msgstr ""
+
+#: admin/pages/settings.php:1009
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: admin/pages/settings.php:1013
+msgid "Tax Type "
+msgstr ""
+
+#: admin/pages/settings.php:1017
+msgid "Common Tax"
+msgstr ""
+
+#: admin/pages/settings.php:1022
+msgid "Tax By Country"
+msgstr ""
+
+#: admin/pages/settings.php:1034
+msgid "Common Tax % "
+msgstr ""
+
+#: admin/pages/settings.php:1047
+#: template/private-profile/profile-billing-address.php:59
+#: template/signup/wizard-style-2.php:232
+#: template/signup/wizard-style-1.php:673
+#, fuzzy
+msgid "Country"
+msgstr "مقدار"
+
+#: admin/pages/settings.php:1048
+msgid "Tax %"
+msgstr ""
+
+#: admin/pages/settings.php:1349
+msgid "Note : Tax will not work on Stripe Ruccring Subscriotion Payment"
+msgstr ""
+
+#: admin/pages/price-table/price-table-1.php:207
+#: admin/pages/price-table/price-table-5.php:179
+#: admin/pages/price-table/price-table-2.php:273
+#: admin/pages/price-table/price-table-7.php:210
+#: admin/pages/price-table/price-table-6.php:207
+#: admin/pages/price-table/price-table-3.php:614
+#: admin/pages/price-table/price-table-4.php:438
+msgid "Free"
+msgstr ""
+
+#: admin/pages/price-table/price-table-1.php:254
+#: admin/pages/price-table/price-table-5.php:220
+#: admin/pages/price-table/price-table-2.php:339
+#: admin/pages/price-table/price-table-6.php:254
+#: admin/pages/price-table/price-table-3.php:662
+#: admin/pages/price-table/price-table-4.php:490
+#, fuzzy
+msgid "Sign up"
+msgstr "خروج از سیستم"
+
+#: template/profile-public/profile-template-2.php:254
+msgid "HEllO, I'm"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:265
+msgid "ABOUT"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:270
+#, fuzzy
+msgid "Professional Profile"
+msgstr "مشخصات شبکه های اجتماعی"
+
+#: template/profile-public/profile-template-2.php:281
+#: template/profile-public/profile-template-1.php:398
+#: template/profile-public/profile-template-3.php:182
+#: template/private-profile/profile-billing-address.php:32
+msgid "Phone"
+msgstr "تلفن"
+
+#: template/profile-public/profile-template-2.php:285
+#: template/profile-public/profile-template-1.php:404
+#: template/profile-public/profile-template-4.php:334
+#: template/profile-public/profile-template-3.php:188
+msgid "Mobile"
+msgstr "تلفن همراه"
+
+#: template/profile-public/profile-template-2.php:290
+#: template/profile-public/profile-template-1.php:412
+#: template/profile-public/profile-template-3.php:198
+#: template/signup/wizard-style-1.php:653
+msgid "Email"
+msgstr "ایمیل"
+
+#: template/profile-public/profile-template-2.php:295
+#: template/profile-public/profile-template-4.php:343
+#: template/private-profile/profile-billing-address.php:38
+msgid "Address"
+msgstr "نشانی"
+
+#: template/profile-public/profile-template-2.php:314
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: template/profile-public/profile-template-1.php:355
+#: template/profile-public/profile-template-4.php:289
+#: template/private-profile/profile-setting-1.php:6
+msgid "Profile"
+msgstr "مشخصات"
+
+#: template/profile-public/profile-template-1.php:418
+msgid "Website"
+msgstr ""
+
+#: template/profile-public/profile-template-1.php:440
+#, fuzzy
+msgid "Posts"
+msgstr "وضعیت پست یا نوشته"
+
+#: template/profile-public/profile-template-1.php:467
+#, fuzzy
+msgid "Post date:"
+msgstr "تاریخ ارسال: "
+
+#: template/profile-public/profile-template-4.php:309
+msgid "Contact Info"
+msgstr "اطلاعات تماس"
+
+#: template/profile-public/profile-template-4.php:338
+msgid "Occupation"
+msgstr "شغل"
+
+#: template/profile-public/profile-template-4.php:351
+msgid "Bio"
+msgstr "بیوگرافی یا شرح مختصری از خود"
+
+#: template/profile-public/profile-template-4.php:376
+msgid "Recent post"
+msgstr "پست های اخیر"
+
+#: template/profile-public/profile-template-4.php:414
+#, fuzzy
+msgid "Post date"
+msgstr "تاریخ ارسال: "
+
+#: template/profile-public/profile-template-3.php:222
+msgid "Send Message"
+msgstr "ارسال پیام"
+
+#: template/profile-public/profile-template-5.php:679
+#: template/private-profile/profile-template-1.php:587
+msgid "About"
+msgstr "درباره"
+
+#: template/profile-public/profile-template-5.php:742
+msgid "User Post"
+msgstr "کاربر پست"
+
+#: template/private-profile/profile-template-1.php:439
+msgid "Change Image"
+msgstr "تغییر تصویر"
+
+#: template/private-profile/profile-template-1.php:497
+#, fuzzy
+msgid "Account Settings "
+msgstr "تنظیمات حساب کاربری"
+
+#: template/private-profile/profile-template-1.php:513
+#: template/private-profile/profile-all-post-1.php:26
+msgid "All"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:528
+#, fuzzy
+msgid "New"
+msgstr "افزودن"
+
+#: template/private-profile/profile-template-1.php:543
+#: template/private-profile/profile-billing-address.php:5
+#, fuzzy
+msgid "Billing Address"
+msgstr "آدرس ایمیل"
+
+#: template/private-profile/profile-template-1.php:571
+msgid "Sign out"
+msgstr "خروج از سیستم"
+
+#: template/private-profile/profile-template-1.php:656
+#: template/private-profile/profile-template-1.php:658
+msgid "Profile Image"
+msgstr "مشخصات تصویر"
+
+#: template/private-profile/profile-billing-address.php:16
+#, fuzzy
+msgid "First Name"
+msgstr " نام کاربری (انگلیسی)"
+
+#: template/private-profile/profile-billing-address.php:22
+#, fuzzy
+msgid "Last Name"
+msgstr " نام کاربری (انگلیسی)"
+
+#: template/private-profile/profile-billing-address.php:27
+msgid "Company"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:42
+#, fuzzy
+msgid "Address 2"
+msgstr "آدرس:"
+
+#: template/private-profile/profile-billing-address.php:47
+msgid "City"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:48
+#, fuzzy
+msgid "Enter City"
+msgstr "آدرس وب سایت را وارد کنید"
+
+#: template/private-profile/profile-billing-address.php:51
+#, fuzzy
+msgid "State"
+msgstr "وضعیت"
+
+#: template/private-profile/profile-billing-address.php:52
+#, fuzzy
+msgid "Enter State"
+msgstr "آدرس وب سایت را وارد کنید"
+
+#: template/private-profile/profile-billing-address.php:55
+msgid "Zip"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:56
+#, fuzzy
+msgid "Enter Zip"
+msgstr "آدرس وب سایت را وارد کنید"
+
+#: template/private-profile/profile-billing-address.php:335
+#: template/private-profile/profile-setting-1.php:105
+#: template/private-profile/profile-setting-1.php:155
+#: template/private-profile/profile-setting-1.php:197
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: template/private-profile/profile-all-post-1.php:70
+#: template/private-profile/profile-edit-post-1.php:62
+#: template/private-profile/profile-new-post-1.php:63
+msgid "Title"
+msgstr "عنوان"
+
+#: template/private-profile/profile-all-post-1.php:72
+msgid "Status"
+msgstr "وضعیت"
+
+#: template/private-profile/profile-all-post-1.php:73
+msgid "Actions"
+msgstr "اقدامات"
+
+#: template/private-profile/profile-all-post-1.php:110
+#: template/private-profile/profile-edit-post-1.php:6
+#: template/private-profile/profile-edit-post-1.php:114
+msgid "Edit"
+msgstr "ویرایش"
+
+#: template/private-profile/profile-all-post-1.php:111
+msgid "Are you sure to delete this post?"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:111
+msgid "Delete"
+msgstr "پاک کردن"
+
+#: template/private-profile/profile-setting-1.php:10
+msgid "Personal Info"
+msgstr "اطلاعات شخصی"
+
+#: template/private-profile/profile-setting-1.php:13
+#: template/private-profile/profile-setting-1.php:127
+msgid "Change Password"
+msgstr "تغییر رمز عبور"
+
+#: template/private-profile/profile-setting-1.php:16
+msgid "Social"
+msgstr "اجتماعی"
+
+#: template/private-profile/profile-setting-1.php:19
+msgid "Privacy Settings"
+msgstr "تنظیمات حریم خصوصی"
+
+#: template/private-profile/profile-setting-1.php:114
+msgid "Current Password"
+msgstr "رمز ورود فعلی"
+
+#: template/private-profile/profile-setting-1.php:118
+msgid "New Password"
+msgstr "رمز عبور جدید"
+
+#: template/private-profile/profile-setting-1.php:122
+msgid "Re-type New Password"
+msgstr "رمز عبور جدید را دوباره بنویسید"
+
+#: template/private-profile/profile-setting-1.php:136
+msgid "FaceBook"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:140
+#, fuzzy
+msgid "Linkedin"
+msgstr "لینک"
+
+#: template/private-profile/profile-setting-1.php:144
+#, fuzzy
+msgid "Twitter"
+msgstr "پروفایل توییتر"
+
+#: template/private-profile/profile-setting-1.php:148
+msgid "Google+"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:167
+msgid "Hide Email Address "
+msgstr "پنهان کردن آدرس پست الکترونیک "
+
+#: template/private-profile/profile-setting-1.php:171
+#: template/private-profile/profile-setting-1.php:180
+#: template/private-profile/profile-setting-1.php:189
+msgid "Yes"
+msgstr "بله"
+
+#: template/private-profile/profile-setting-1.php:176
+msgid "Hide Phone Number"
+msgstr "مخفی کردن شماره تلفن"
+
+#: template/private-profile/profile-setting-1.php:185
+msgid "Hide Mobile Number"
+msgstr "مخفی کردن شماره تلفن همراه"
+
+#: template/private-profile/profile-login.php:515
+msgid "Sign In"
+msgstr "ورود به سیستم"
+
+#: template/private-profile/profile-login.php:521
+msgid "Username"
+msgstr "نام کاربری"
+
+#: template/private-profile/profile-login.php:525
+#: template/signup/wizard-style-2.php:208
+#: template/signup/wizard-style-1.php:656
+msgid "Password"
+msgstr "رمز عبور"
+
+#: template/private-profile/profile-login.php:530
+#: template/private-profile/profile-edit-post-1.php:50
+msgid "Login"
+msgstr "ورود"
+
+#: template/private-profile/profile-login.php:534
+msgid "Remember"
+msgstr "مرا به خاطر بسپار"
+
+#: template/private-profile/profile-login.php:537
+msgid "Forgot Password?"
+msgstr "رمز عبور را فراموش کرده اید؟"
+
+#: template/private-profile/profile-login.php:545
+msgid "Create an account"
+msgstr "ایجاد یک حساب کاربری جدید"
+
+#: template/private-profile/profile-login.php:553
+msgid "Forget Password ?"
+msgstr "رمز عبور را فراموش کرده اید؟"
+
+#: template/private-profile/profile-login.php:555
+msgid "Enter your e-mail address"
+msgstr "آدرس ایمیل خود را وارد کنید"
+
+#: template/private-profile/profile-login.php:564
+msgid "Back"
+msgstr "برگشت"
+
+#: template/private-profile/profile-login.php:565
+#: template/private-profile/iv_stripe_form_upgrade.php:193
+#: template/signup/iv_stripe_form_2.php:219
+#: template/signup/iv_stripe_form_1.php:217
+#: template/signup/paypal_form_1.php:177 template/signup/paypal_form_1.php:183
+#: template/signup/paypal_form_2.php:178 template/signup/paypal_form_2.php:184
+msgid "Submit"
+msgstr "ارسال"
+
+#: template/private-profile/profile-login.php:591
+msgid "Password Sent. Please check your email"
+msgstr ""
+
+#: template/private-profile/profile-login.php:600
+msgid "Enter Email Address"
+msgstr "آدرس ایمیل را وارد کنید"
+
+#: template/private-profile/profile-login.php:625
+msgid "Invalid Username & Password"
+msgstr "نام کاربری یا رمز عبور نامعتبر می باشند"
+
+#: template/private-profile/profile-login.php:632
+msgid "Enter Username & Password"
+msgstr "نام کاربری و رمز عبور خود را وارد نمائید"
+
+#: template/private-profile/profile-edit-post-1.php:50
+#, fuzzy
+msgid "Please"
+msgstr "لطفاً "
+
+#: template/private-profile/profile-edit-post-1.php:50
+msgid "To Edit The Post."
+msgstr "ویرایش پست یا نوشته."
+
+#: template/private-profile/profile-edit-post-1.php:86
+#: template/private-profile/profile-new-post-1.php:87
+msgid "Feature Image"
+msgstr "ویژگی تصویر"
+
+#: template/private-profile/profile-edit-post-1.php:115
+msgid "Remove"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:120
+#: template/private-profile/profile-new-post-1.php:98
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: template/private-profile/profile-edit-post-1.php:134
+#: template/private-profile/profile-new-post-1.php:104
+msgid "Custom Fields"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:158
+#: template/private-profile/profile-new-post-1.php:117
+#, fuzzy
+msgid "More Field"
+msgstr "فیلدهای دایرکتوری"
+
+#: template/private-profile/profile-edit-post-1.php:163
+#: template/private-profile/profile-new-post-1.php:124
+msgid "Post Status"
+msgstr "وضعیت پست یا نوشته"
+
+#: template/private-profile/profile-edit-post-1.php:167
+#: template/private-profile/profile-new-post-1.php:128
+msgid "Pending Review"
+msgstr "در انتظار بررسی..."
+
+#: template/private-profile/profile-edit-post-1.php:168
+#: template/private-profile/profile-new-post-1.php:129
+msgid "Draft"
+msgstr "پیش نویس"
+
+#: template/private-profile/profile-edit-post-1.php:177
+#: template/private-profile/profile-new-post-1.php:138
+msgid "Category"
+msgstr "دسته بندی"
+
+#: template/private-profile/profile-edit-post-1.php:197
+#: template/private-profile/profile-new-post-1.php:156
+#, fuzzy
+msgid "Choose a category"
+msgstr "دسته بندی"
+
+#: template/private-profile/profile-edit-post-1.php:226
+#, fuzzy
+msgid "Update Post"
+msgstr "به روز رسانی محصولات"
+
+#: template/private-profile/profile-edit-post-1.php:289
+#: template/private-profile/profile-new-post-1.php:251
+msgid "Set Feature Image "
+msgstr "تنظیم ویژگی تصویر "
+
+#: template/private-profile/profile-edit-post-1.php:291
+#: template/private-profile/profile-new-post-1.php:253
+msgid "Set Feature Image"
+msgstr "تنظیم ویژگی تصویر"
+
+#: template/private-profile/profile-level-1.php:307
+msgid "Current"
+msgstr "در حال حاضر"
+
+#: template/private-profile/profile-level-1.php:310
+#: template/private-profile/profile-level-1.php:582
+msgid "Upgrade"
+msgstr "ارتقاء"
+
+#: template/private-profile/profile-level-1.php:314
+msgid "Cancel"
+msgstr "لغو"
+
+#: template/private-profile/profile-level-1.php:338
+msgid "Current Package"
+msgstr "پکیج یل بسته فعلی"
+
+#: template/private-profile/profile-level-1.php:358
+msgid "Package Amount"
+msgstr "مقدار پکیج"
+
+#: template/private-profile/profile-level-1.php:388
+msgid "Package Type"
+msgstr "نوع پکیج"
+
+#: template/private-profile/profile-level-1.php:398
+msgid "Payment Status"
+msgstr "وضعیت پرداخت"
+
+#: template/private-profile/profile-level-1.php:409
+msgid "User Role"
+msgstr "نقش کاربر"
+
+#: template/private-profile/profile-level-1.php:429
+msgid "Exprie Date"
+msgstr "تاریخ انقضا"
+
+#: template/private-profile/profile-level-1.php:450
+msgid "Next Payment Date"
+msgstr "تاریخ پرداخت بعدی"
+
+#: template/private-profile/profile-level-1.php:484
+#: template/private-profile/iv_stripe_form_upgrade.php:22
+#: template/signup/iv_stripe_form_2.php:21
+#: template/signup/iv_stripe_form_1.php:21 template/signup/paypal_form_1.php:2
+#: template/signup/paypal_form_2.php:2
+msgid "Package Name"
+msgstr "نام پکیج"
+
+#: template/private-profile/profile-level-1.php:520
+#: template/private-profile/iv_stripe_form_upgrade.php:59
+#: template/signup/iv_stripe_form_2.php:74
+#: template/signup/iv_stripe_form_1.php:72
+#: template/signup/paypal_form_1.php:59 template/signup/paypal_form_2.php:59
+msgid "Amount"
+msgstr "مقدار"
+
+#: template/private-profile/profile-level-1.php:539
+#: template/private-profile/iv_stripe_form_upgrade.php:76
+#: template/signup/iv_stripe_form_2.php:98
+#: template/signup/iv_stripe_form_1.php:96
+#: template/signup/paypal_form_1.php:87 template/signup/paypal_form_2.php:87
+msgid "Vat/Tax"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:570
+#: template/private-profile/iv_stripe_form_upgrade.php:107
+#: template/signup/iv_stripe_form_2.php:132
+#: template/signup/iv_stripe_form_1.php:130
+#: template/signup/paypal_form_1.php:121 template/signup/paypal_form_2.php:121
+msgid "Total"
+msgstr "جمع"
+
+#: template/private-profile/profile-level-1.php:608
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+"توجه داشته باشید: موفق شدن به ارتقاء و یا نزول شما، بلافاصله در نقش کاربری "
+"شما تاثیر می گذارد."
+
+#: template/private-profile/profile-level-1.php:624
+#: template/private-profile/profile-level-1.php:663
+msgid "Cancel Reason"
+msgstr "دلیل لغوکردن"
+
+#: template/private-profile/profile-level-1.php:625
+#: template/private-profile/profile-level-1.php:664
+msgid "Canceling Reason"
+msgstr "دلیل لغو"
+
+#: template/private-profile/profile-level-1.php:631
+#: template/private-profile/profile-level-1.php:669
+msgid "Cancel Membership"
+msgstr "لغو عضویت"
+
+#: template/private-profile/profile-level-1.php:641
+#: template/private-profile/profile-level-1.php:678
+msgid "Nothing to Cancel"
+msgstr "هیچ چیزی برای لغو نیست"
+
+#: template/private-profile/iv_stripe_form_upgrade.php:113
+#: template/signup/iv_stripe_form_2.php:139
+#: template/signup/iv_stripe_form_1.php:137
+#: files/short_code_file/iv_stripe_form_display.php:3
+msgid "Card Number"
+msgstr "شماره کارت"
+
+#: template/private-profile/iv_stripe_form_upgrade.php:115
+#: template/signup/iv_stripe_form_2.php:141
+#: template/signup/iv_stripe_form_1.php:139
+#, fuzzy
+msgid "Enter card number"
+msgstr "شماره فکس را وارد کنید"
+
+#: template/private-profile/iv_stripe_form_upgrade.php:115
+#: template/signup/iv_stripe_form_2.php:141
+#: template/signup/iv_stripe_form_1.php:139
+msgid "Card number is not correct"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:119
+#: template/signup/iv_stripe_form_2.php:145
+#: template/signup/iv_stripe_form_1.php:143
+msgid "Card CVV"
+msgstr "CVV2 کارت"
+
+#: template/private-profile/iv_stripe_form_upgrade.php:126
+#: template/signup/iv_stripe_form_2.php:152
+#: template/signup/iv_stripe_form_1.php:150
+#: files/short_code_file/iv_stripe_form_display.php:11
+msgid "Expiration (MM/YYYY)"
+msgstr "انقضا (MM/YYYY)"
+
+#: template/private-profile/profile-new-post-1.php:6
+msgid "Add New"
+msgstr "افزودن"
+
+#: template/private-profile/profile-new-post-1.php:50
+msgid "Please Upgrade Your Account"
+msgstr "لطفا حساب خود را ارتقا دهید"
+
+#: template/private-profile/profile-new-post-1.php:51
+msgid "Here"
+msgstr "اینجا"
+
+#: template/private-profile/profile-new-post-1.php:51
+#, fuzzy
+msgid "To Add More Post"
+msgstr "برای اضافه کردن پست های بیشتر."
+
+#: template/private-profile/profile-new-post-1.php:66
+msgid "Enter Title Here"
+msgstr "عنوان را در اینجا وارد کنید"
+
+#: template/private-profile/profile-new-post-1.php:107
+msgid "Custom Field Name"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:109
+msgid "Value"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:185
+msgid "Save Post"
+msgstr "ذخیره کردن نوشته یا مطلب"
+
+#: template/user-directory/directory-template-1.php:326
+#: template/user-directory/directory-template-2.php:297
+#: template/signup/wizard-style-2.php:194
+#: template/signup/wizard-style-1.php:647
+msgid "User Name"
+msgstr " نام کاربری (انگلیسی)"
+
+#: template/user-directory/directory-template-1.php:468
+#: template/user-directory/directory-template-2.php:436
+#, fuzzy
+msgid "No users found"
+msgstr "پیدا نشد"
+
+#: template/signup/iv_stripe_form_2.php:86
+#: template/signup/iv_stripe_form_1.php:84
+#: template/signup/paypal_form_1.php:72 template/signup/paypal_form_2.php:72
+msgid "Have a coupon?"
+msgstr "بن تخفیف یا کوپن خرید دارید؟"
+
+#: template/signup/iv_stripe_form_2.php:148
+#: template/signup/iv_stripe_form_1.php:146
+msgid "CVV number is not correct"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:148
+#: template/signup/iv_stripe_form_1.php:146
+#, fuzzy
+msgid "Enter card CVC"
+msgstr "سال دریافت جایزه را وارد کنید"
+
+#: template/signup/coupon_form_1.php:4 template/signup/coupon_form_2.php:4
+msgid "Discount Coupon"
+msgstr "بُن های تخفیف"
+
+#: template/signup/coupon_form_1.php:15 template/signup/coupon_form_2.php:15
+msgid "(-) Discount"
+msgstr "(-) تخفیف"
+
+#: template/signup/wizard-style-2.php:168
+#: template/signup/wizard-style-1.php:640
+msgid "User Info"
+msgstr "اطلاعات کاربری"
+
+#: template/signup/wizard-style-2.php:197
+#: template/signup/wizard-style-1.php:649
+#, fuzzy
+msgid "The user name has to be an alphanumeric value between 4-12 characters"
+msgstr " نام کاربری باید ازترکیب اعداد و حروف بین 4-12 کاراکتر باشد"
+
+#: template/signup/wizard-style-2.php:197
+#, fuzzy
+msgid "Enter User Name"
+msgstr " نام کاربری (انگلیسی)"
+
+#: template/signup/wizard-style-2.php:202
+#: template/signup/wizard-style-1.php:652
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: template/signup/wizard-style-2.php:204
+#, fuzzy
+msgid "Enter email address"
+msgstr "آدرس ایمیل را وارد کنید"
+
+#: template/signup/wizard-style-2.php:204
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "لطفا آدرس ایمیل معتبر را وارد کنید"
+
+#: template/signup/wizard-style-2.php:235
+#: template/signup/wizard-style-1.php:676
+#, fuzzy
+msgid "Please select your country"
+msgstr "لطفا حساب خود را ارتقا دهید"
+
+#: template/signup/wizard-style-2.php:495
+#: template/signup/wizard-style-1.php:936
+msgid "Select Country"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:526
+#: template/signup/wizard-style-1.php:972
+msgid "Payment Info"
+msgstr "اطلاعات پرداخت"
+
+#: files/short_code_file/iv_stripe_form_display.php:7
+msgid "CVC"
+msgstr "CVC یا Central Vigilance Commission"
+
+#: files/short_code_file/iv_stripe_form_display.php:18
+msgid "Payment Type:"
+msgstr "نوع پرداخت:"
+
+#: files/short_code_file/iv_stripe_form_display.php:19
+msgid "One time payment"
+msgstr "یک بار پرداخت"
+
+#: files/short_code_file/iv_stripe_form_display.php:20
+msgid "Recurring monthly payment"
+msgstr "دوره پرداخت ماهانه"
+
+#: files/short_code_file/iv_stripe_form_display.php:26
+msgid "Submit Payment"
+msgstr "تایید پرداخت"
+
+#: inc/widget.php:22 inc/widget.php:42
+msgid "Form"
+msgstr ""
+
+#: inc/widget.php:35
+msgid "Form List"
+msgstr ""
+
+#~ msgid "http://e-plugin.com"
+#~ msgstr "http://e-plugin.com"
+
+#~ msgid ""
+#~ "Build Paid Listing using Wordpress.No programming knowledge required."
+#~ msgstr ""
+#~ "ساخت لیست پرداخت با استفاده از وردپرس و بدون نیاز به دانش برنامه نویسی."
+
+#~ msgid "e-plugin"
+#~ msgstr "e-plugin"
+
+#~ msgid ""
+#~ "Amount to Bill for The Trial Period. Free is 0.[Stripe will not support "
+#~ "this option ]"
+#~ msgstr ""
+#~ "مبلغ قابل پرداخت برای دوره تست و آزمایشی. اگر می خواهید رایگان باشد عدد 0 "
+#~ "را وارد کنید. (پرداخت توسط استریپ از این گزینه پشتیبانی نمی‌کند)"
+
+#~ msgid "Trial Period"
+#~ msgstr "دوره زماتی حالت تست (آزمایشی)"
+
+#~ msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+#~ msgstr "پس از دوره آزمایشی \"مقدار صورتحساب\" برداشت خواهد شد."
+
+#~ msgid "Access Control/Options"
+#~ msgstr "کنترل دسترسی/گزینه های مربوط به آن"
+
+#~ msgid "Maximum Post/Directory"
+#~ msgstr "بیشترین نوشته یا مطلب در فهرست"
+
+#~ msgid "Maximum # of post by this package. Blank is none."
+#~ msgstr "حداکثر تعداد مطالب یا نوشته‌های این بسته. این فیلد نباید خالی باشد."
+
+#~ msgid "Directory Visibility"
+#~ msgstr "قابل رویت بودن دایرکتوری"
+
+#~ msgid "Directory will hide after user subscription expire."
+#~ msgstr "پس از منقضی شدن اشتراک کاربر دایرکتوری پنهان خواهد شد."
+
+#~ msgid "Directory Event"
+#~ msgstr "فهرست رویداد"
+
+#~ msgid "Can Add Event."
+#~ msgstr "قادر به اضافه کردن رویداد می باشد."
+
+#~ msgid "Deals/Coupon"
+#~ msgstr "تخفیف و بُن تخفیف"
+
+#~ msgid "Can Add Directory Deals/Coupon."
+#~ msgstr "می توانید برای دایرکتوری خود بُن تخفیف اضافه کنید."
+
+#~ msgid "Directory Videos"
+#~ msgstr "فهرست فیلم ها"
+
+#~ msgid "Can Add Videos."
+#~ msgstr "می توانید فیلم اضافه کنید."
+
+#~ msgid "Directory VIP Badge"
+#~ msgstr "فهرست نشان های برتر"
+
+#~ msgid "Will Add VIP Badge"
+#~ msgstr "نشان برتراضافه کنید"
+
+#~ msgid "Directory Booking"
+#~ msgstr "فهرست خود را ثبت کنید"
+
+#~ msgid "Can Add Booking Shortcode"
+#~ msgstr "می توانید برای ثبت، کلید میان بُر(کد کوتاه) اضافه کنید"
+
+#~ msgid "Feature Directory "
+#~ msgstr "ویژگی فهرست یا دایرکتوری "
+
+#~ msgid "Will Add On Featured List"
+#~ msgstr "در لیست ویژه یا برندهای لوکس اضافه کنید"
+
+#~ msgid "Hide Top Map"
+#~ msgstr "پنهان کردن نقشه بالا"
+
+#~ msgid "Listing Page Search Bar"
+#~ msgstr "نوار جستجوی صفحه فهرست"
+
+#~ msgid "Show  Search Bar"
+#~ msgstr "نمایش نوار جستجو"
+
+#~ msgid "Hide Search Bar"
+#~ msgstr "پنهان کردن نوار جستجو"
+
+#~ msgid "Show Social Profile"
+#~ msgstr "نمایش مشخصات شبکه های اجتماعی"
+
+#~ msgid "Hide Social Profile"
+#~ msgstr "پنهان کردن مشخصات شبکه های اجتماعی"
+
+#~ msgid "Amenities/Tag"
+#~ msgstr "امکانات اضافی/برچسب"
+
+#~ msgid "Show Amenities/Tag"
+#~ msgstr "نمایش امکانات اضافی/برچسب"
+
+#~ msgid "Hide Amenities/Tag"
+#~ msgstr "پنهلان کردن امکانات اضافی/برچسب"
+
+#~ msgid "Contact Us"
+#~ msgstr "تماس با ما"
+
+#~ msgid "Show Contact Us"
+#~ msgstr "نمایش اطلاعات تماس"
+
+#~ msgid "Hide Contact Us"
+#~ msgstr "پنهان کردن تماس با ما"
+
+#~ msgid "Claim"
+#~ msgstr "مزیت ها و توانمندی‌ها"
+
+#~ msgid "Show Claim"
+#~ msgstr "نمایش مزیت ها و توانمندی‌ها"
+
+#~ msgid "Hide Claim"
+#~ msgstr "پنهان کردن مزیت ها و توانمندی‌ها"
+
+#~ msgid "Days #"
+#~ msgstr "روز #"
+
+#~ msgid "The new item badge will show for the days"
+#~ msgstr "نشان جدید در روزهای بعد نمایش داده خواهد شد"
+
+#~ msgid "Directory Publish By User"
+#~ msgstr "دایرکتوری توسط کاربر انتشار پیدا می کند"
+
+#~ msgid "Directory Radius"
+#~ msgstr "محدوده خدمات دهی دایرکتوری"
+
+#~ msgid "Cron Job URL"
+#~ msgstr "Cron Job URL"
+
+#~ msgid "Pages Restriction By Roles"
+#~ msgstr "محدوديت صفحات بر اساس نوع نقش ها"
+
+#~ msgid "Page Visibility Module :"
+#~ msgstr "ماژول پدیدار کردن صفحه:"
+
+#~ msgid "Show Page By Role Access"
+#~ msgstr "نمایش صفحه با توجه به سطح دسترسی نقش ها"
+
+#~ msgid "Show All"
+#~ msgstr "نمایش همه"
+
+#~ msgid "Select which pages are available for each user role.\t"
+#~ msgstr "صفحاتی که برای نقش هر کاربر در دسترس هستند را انتخاب کنید."
+
+#~ msgid "Check/Uncheck"
+#~ msgstr "انتخاب/لغو انتخاب"
+
+#~ msgid "Category Image / Map Marker"
+#~ msgstr "دسته بندی تصویر / نشانگر نقشه"
+
+#~ msgid "Category Main"
+#~ msgstr "دسته بندی اصلی"
+
+#~ msgid "Sub Category"
+#~ msgstr "زیر شاخه ها"
+
+#~ msgid "Map Marker"
+#~ msgstr "نشانگر نقشه"
+
+#~ msgid "Category Image"
+#~ msgstr "دسته بندی تصویر"
+
+#~ msgid "Marker Image"
+#~ msgstr "نشانگر تصویر"
+
+#~ msgid "Update Profile Setting"
+#~ msgstr "به روز رسانی تنظیمات پروفایل"
+
+#~ msgid "Menu Title / Label"
+#~ msgstr "عنوان / برچسب"
+
+#~ msgid "Listing Home"
+#~ msgstr "فهرست نویسی صفحه اصلی"
+
+#~ msgid "Balance + Bidding"
+#~ msgstr "سقف پیشنهاد+ مزایده"
+
+#~ msgid "New Listing"
+#~ msgstr "فهرست جدید"
+
+#~ msgid "My Favorites"
+#~ msgstr "علاقه های من"
+
+#~ msgid "Who is Interested"
+#~ msgstr "چه کسی علاقه مند است"
+
+#~ msgid "Add More"
+#~ msgstr "افزودن بیشتر"
+
+#~ msgid "User Profile Fields"
+#~ msgstr "فیلدهای پروفایل کاربر"
+
+#~ msgid "User Meta Name"
+#~ msgstr "نام متا ی کاربر (برای سئو)"
+
+#~ msgid "Display Label"
+#~ msgstr "نمایش برچسب"
+
+#~ msgid "Display the user meta on \"Public Profile"
+#~ msgstr "نمایش متا ی کاربر در \"پروفایل عمومی\""
+
+#~ msgid ""
+#~ "Open the template file  your-theme/directory-pro/profile-public/profile-"
+#~ "template-1.php and put the code on the file. It will display  the  "
+#~ "\"first_name\" user meta value."
+#~ msgstr ""
+#~ "قالب فایل را از آدرس زیر باز کنید:\n"
+#~ "your-theme/directory-pro/profile-public/profile-template-1.php\n"
+#~ " و کد را در فایل قرار دهید. آن ارزش \"first_name\" متا ی کاربر را نشان می "
+#~ "دهد."
+
+#~ msgid "Overriding templates"
+#~ msgstr "قالب های مهم و برجسته"
+
+#~ msgid ""
+#~ "The template files can be found within the /directory-pro/template/ "
+#~ "directory: Copy the template folder and paste it on your current theme "
+#~ "folder and rename it as \"directorypro\"."
+#~ msgstr ""
+#~ "میتوانید فایل های الگو را در directory-pro/template/directory یافت کنید: "
+#~ "فولدر قالب را کپی کرده وآن را در فولدر تم فعلی بچسبایند (pate) و نام آن "
+#~ "به \"directorypro\" تغییر دهید."
+
+#~ msgid "Synchronize your Products from Amazon with latest data"
+#~ msgstr "محصولات خود را از سایت آمازون با آخرین اطلاعات همگام سازی کنید"
+
+#~ msgid "Directory URL"
+#~ msgstr "آدرس URL دایرکتوری"
+
+#~ msgid "Listing URL"
+#~ msgstr "فهرست کردن آدرس ها یا URL"
+
+#~ msgid "Page"
+#~ msgstr "صفحه"
+
+#~ msgid "Bidding"
+#~ msgstr "مزایده"
+
+#~ msgid "Directory"
+#~ msgstr "دایرکتوری"
+
+#~ msgid "Category Image/Marker"
+#~ msgstr "دسته بندی تصویر / نشانگر یا مارکر"
+
+#~ msgid "Payment Page"
+#~ msgstr "صفحه پرداخت"
+
+#~ msgid "MailChimp"
+#~ msgstr "میل چیمپ/MailChimp"
+
+#~ msgid "Page Redirect"
+#~ msgstr "تغییر مسیر صفحه"
+
+#~ msgid "Visibility Control"
+#~ msgstr "کنترل دید/Visibility Control"
+
+#~ msgid "Protected Page"
+#~ msgstr "صفحه محفاظت شده"
+
+#~ msgid "Hide Coupon"
+#~ msgstr "پنهان کردن بُن تخفیف"
+
+#~ msgid "Card CVV "
+#~ msgstr "CVV2 کارت "
+
+#~ msgid "Post on :"
+#~ msgstr "ارسال شده در:"
+
+#~ msgid "Keyword"
+#~ msgstr "کلید واژه"
+
+#~ msgid "Any Category"
+#~ msgstr "هر دسته"
+
+#~ msgid "Location"
+#~ msgstr "محل"
+
+#~ msgid "Radius"
+#~ msgstr "شعاع جغرافیایی"
+
+#~ msgid "Search"
+#~ msgstr "جستجو"
+
+#~ msgid "Advance Search"
+#~ msgstr "جستجوی پیشرفته"
+
+#~ msgid "Map"
+#~ msgstr "نقشه"
+
+#~ msgid "VIEW DETAIL"
+#~ msgstr "مشاهده جزئیات"
+
+#~ msgid "Sorry, no posts matched your criteria."
+#~ msgstr "متاسفیم, هیچ پست یا نوشته‌ای برای جستوجوی شما وجود ندارد."
+
+#~ msgid " Newer Entries"
+#~ msgstr " نوشته های جدیدتر"
+
+#~ msgid " Older Entries "
+#~ msgstr " نوشته های قدیمی تر "
+
+#~ msgid "Please login to add favorite"
+#~ msgstr "برای افزودن به لیست مورد علاقه خود لطفا وارد شوید"
+
+#~ msgid "Please login to remove favorite"
+#~ msgstr "برای حذف از لیست مورد علاقه خود لطفا وارد شوید"
+
+#~ msgid "Directories /"
+#~ msgstr "دایرکتوری /"
+
+#~ msgid "Added to Favorites"
+#~ msgstr "به لیست علاقه مندی ها اضافه شد"
+
+#~ msgid "Add to Favorites"
+#~ msgstr "افزودن به لیست علاقه مندی ها"
+
+#~ msgid "Claim The Listing"
+#~ msgstr "درخواست لیست توانمندی‌ها"
+
+#~ msgid "Share On Facebook"
+#~ msgstr "اشتراک گذاری در فیس بوک"
+
+#~ msgid "Share On Twitter"
+#~ msgstr "اشتراک گذاری در توییتر"
+
+#~ msgid "Share On linkedin"
+#~ msgstr "اشتراک گذاری در لینکداین"
+
+#~ msgid "Share On google+"
+#~ msgstr "اشتراک گذاری در + google"
+
+#~ msgid "Listing Owner"
+#~ msgstr "فهرست کردن دارایی"
+
+#~ msgid "Photos"
+#~ msgstr "عکس ها"
+
+#~ msgid "Facebook Profile"
+#~ msgstr "پروفایل فیس بوک"
+
+#~ msgid "linkedin Profile"
+#~ msgstr "پروفایل لینکداین \"LinkedIn\""
+
+#~ msgid "google+ Profile"
+#~ msgstr "پروفایل گوگل پلاس\"+ google\""
+
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+#~ msgid "Fax"
+#~ msgstr "فکس"
+
+#~ msgid "Email "
+#~ msgstr "ایمیل "
+
+#~ msgid "Web Site"
+#~ msgstr "وب سایت"
+
+#~ msgid " Send Message"
+#~ msgstr " ارسال پیام"
+
+#~ msgid "Video"
+#~ msgstr "ویدیو"
+
+#~ msgid "Opening Time"
+#~ msgstr "زمان افتتاح و شروع به کار"
+
+#~ msgid "Additional Info"
+#~ msgstr "اطلاعات اضافی"
+
+#~ msgid "Booking"
+#~ msgstr "رزرو کنید"
+
+#~ msgid "Event"
+#~ msgstr "رویدادها و اتفاقات"
+
+#~ msgid "Deal/ Coupon"
+#~ msgstr "معامله / بُن تخفیف"
+
+#~ msgid "Amount : "
+#~ msgstr "مقدار: "
+
+#~ msgid "Your Email : "
+#~ msgstr "ایمیل شما: "
+
+#~ msgid "Pay By Paypal"
+#~ msgstr "پرداخت توسط درگاه پرداخت آنلاین بانکی"
+
+#~ msgid "Please enter your email address"
+#~ msgstr "لطفا آدرس ایمیل خود را وارد کنید"
+
+#~ msgid "Search "
+#~ msgstr "جستجو "
+
+#~ msgid "Location Map"
+#~ msgstr "نقشه محل شما"
+
+#~ msgid "Share"
+#~ msgstr "اشتراک گذاری"
+
+#~ msgid "instagram Profile"
+#~ msgstr "پروفایل اینستاگرام"
+
+#~ msgid "About Us"
+#~ msgstr "در باره ما"
+
+#~ msgid "Enter Message"
+#~ msgstr "پیام خود را وارد کنید"
+
+#~ msgid "Awards"
+#~ msgstr "جوایز"
+
+#~ msgid "Submit Claim"
+#~ msgstr "ارسال توانمندی ها"
+
+#~ msgid "Deal/Coupon"
+#~ msgstr "معامله / بُن تخفیف"
+
+#~ msgid "Similar Listing"
+#~ msgstr "لیست های مشابه"
+
+#~ msgid "View Detail"
+#~ msgstr "مشاهده جزئیات"
+
+#~ msgid "Please login to Claim The Listing"
+#~ msgstr "لطفا برای درخواست لیست توانمندی ها وارد شوید"
+
+#~ msgid "Find Your Listing "
+#~ msgstr "پیدا کردن فهرست شما "
+
+#~ msgid "Listing Type"
+#~ msgstr "نوع تبلیغات یا آگهی"
+
+#~ msgid "Filter by tag :"
+#~ msgstr "فیلتر بر اساس برچسب:"
+
+#~ msgid "Balance : "
+#~ msgstr "میزان اعتبار یا سقف پیشنهادی: "
+
+#~ msgid "Add Balance"
+#~ msgstr "اضافه کردن موجودی یا سقف پیشنهاد"
+
+#~ msgid "History"
+#~ msgstr "تاریخچه"
+
+#~ msgid "Enter Amount"
+#~ msgstr "مقدار را وارد کنید"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid "Detail"
+#~ msgstr "جزئیات"
+
+#~ msgid "Expire"
+#~ msgstr "منقضی شده"
+
+#~ msgid "Edit Listing"
+#~ msgstr "ویرایش لیست"
+
+#~ msgid "Login or upgrade "
+#~ msgstr "ورود به سیستم یا ارتقا ی آن "
+
+#~ msgid "Image Gallery"
+#~ msgstr "گالری تصاویر"
+
+#~ msgid "Add Images"
+#~ msgstr "اضافه کردن تصاویر"
+
+#~ msgid "Publish"
+#~ msgstr "انتشار"
+
+#~ msgid "Enter here Here"
+#~ msgstr "لطفا در اینجا وارد کنید"
+
+#~ msgid "Address Map"
+#~ msgstr "آدرس نقشه"
+
+#~ msgid "[ Edit ]"
+#~ msgstr "[ویرایش]"
+
+#~ msgid "Award Title"
+#~ msgstr "عنوان جایزه"
+
+#~ msgid "Enter award title"
+#~ msgstr "عنوان جایزه را وارد کنید"
+
+#~ msgid "Award Description"
+#~ msgstr "توضیحات جایزه"
+
+#~ msgid "Enter Award Description"
+#~ msgstr "توضیحات جایزه وارد کنید"
+
+#~ msgid "Year(s) for which award was received"
+#~ msgstr "تعداد سال یا سالهای دریافت جایزه"
+
+#~ msgid "Award Image"
+#~ msgstr "تصویر جایزه"
+
+#~ msgid "Amenities/Tags"
+#~ msgstr "امکانات اضافی/برچسب"
+
+#~ msgid "Select Amenities/Tag"
+#~ msgstr "امکانات اضافی و برچسب را انتخاب کنید"
+
+#~ msgid "Add New Amenities/Tags"
+#~ msgstr "اضافه کردن امکانات جدید/برچسب ها"
+
+#~ msgid "Enter New Tags: Separate tags with commas"
+#~ msgstr "برچسب های جدید را وارد کنید: برچسب ها را با کاما از هم جدا کنید"
+
+#~ msgid "Enter Phone Number"
+#~ msgstr "شماره تلفن را وارد کنید"
+
+#~ msgid "Videos"
+#~ msgstr "فیلم ها"
+
+#~ msgid "Youtube"
+#~ msgstr "یوتیوب"
+
+#~ msgid "Enter Youtube video ID, e.g : bU1QPtOZQZU "
+#~ msgstr "وارد کردن شناسه ویدیو یوتیوب به عنوان مثال: bU1QPtOZQZU "
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Enter vimeo ID, e.g : 134173961"
+#~ msgstr "شناسه Vimeo را وارد کنید به عنوان مثال: 134173961"
+
+#~ msgid "Please upgrade your account to add video "
+#~ msgstr "برای اضافه کردن ویدئو لطفا حساب کاربری خود را ارتقاء دهید "
+
+#~ msgid "Social Profiles"
+#~ msgstr "پروفایل های شبکه های اجتماعی"
+
+#~ msgid "Monday"
+#~ msgstr "دوشنبه"
+
+#~ msgid "Tuesday"
+#~ msgstr "سه شنبه"
+
+#~ msgid "Wednesday"
+#~ msgstr "چهار شنبه"
+
+#~ msgid "Thursday"
+#~ msgstr "پنج شنبه"
+
+#~ msgid "Friday"
+#~ msgstr "جمعه"
+
+#~ msgid "Saturday"
+#~ msgstr "شنبه"
+
+#~ msgid "Sunday"
+#~ msgstr "یکشنبه"
+
+#~ msgid "Closed"
+#~ msgstr "بسته شده"
+
+#~ msgid "Always"
+#~ msgstr "همیشه"
+
+#~ msgid "Event Title"
+#~ msgstr "عنوان رویداد"
+
+#~ msgid "Event Detail"
+#~ msgstr "جزئیات رویداد"
+
+#~ msgid "Event Image"
+#~ msgstr "تصویر رویداد"
+
+#~ msgid "Please upgrade your account to add event "
+#~ msgstr "برای اضافه کردن رویداد لطفا حساب کاربری خود را ارتقاء دهید "
+
+#~ msgid "Booking Detail"
+#~ msgstr "جزئیات رزرو کردن"
+
+#~ msgid "Or, Booking Shortcode"
+#~ msgstr "می توانید برای سیستم رزرو از کلید میان بُر(کد کوتاه) استفاده کنید"
+
+#~ msgid "Please upgrade your account to add booking detail "
+#~ msgstr ""
+#~ "برای اضافه کردن جزئیات سیستم رزرو لطفا حساب کاربری خود را ارتقاء دهید "
+
+#~ msgid "Paypal Email Address [Amount will deposit here]"
+#~ msgstr "آدرس ایمیل پی پال [مبلغ واریزی را اینجا وارد کنید]"
+
+#~ msgid "Enter Your Paypal Email Address"
+#~ msgstr "آدرس ایمیل پی پال را وارد کنید"
+
+#~ msgid "Deal/Coupon Image"
+#~ msgstr "مقدار/تضویر بُن تخفیف"
+
+#~ msgid "Please upgrade your account to add coupon/deal "
+#~ msgstr ""
+#~ "برای اضافه کردن بُن تخفیف یا مقدار آن لطفا حساب کاربری خود را ارتقاء دهید "
+
+#~ msgid "Set Event Image "
+#~ msgstr "تنظیم تصویر رویداد "
+
+#~ msgid "Set Event Image"
+#~ msgstr "تنظیم تصویر رویداد"
+
+#~ msgid "Set Deal/Coupon Image "
+#~ msgstr "تنظیم تصویر بُن تخفیف / مقدار آن "
+
+#~ msgid "Set Deal/Coupon Image"
+#~ msgstr "تنظیم تصویر بُن تخفیف / مقدار آن"
+
+#~ msgid "Gallery Images "
+#~ msgstr "گالری تصاویر "
+
+#~ msgid "Gallery Images"
+#~ msgstr "گالری تصاویر"
+
+#~ msgid "Set award Image "
+#~ msgstr "تنظیم تصویر جوایز "
+
+#~ msgid "Set award Image"
+#~ msgstr "تنظیم تصویر جوایز"
+
+#~ msgid "Bidding System"
+#~ msgstr "سیستم مزایده"
+
+#~ msgid "My Bid Amount / day"
+#~ msgstr "مبلغ پیشنهاد من بر اساس روز"
+
+#~ msgid "Bid for Higher Rank / day"
+#~ msgstr "پیشنهاد برای رتبه بالاتر بر اساس روز"
+
+#~ msgid "For"
+#~ msgstr "برای"
+
+#~ msgid "Total Spent:"
+#~ msgstr "مجموع مخارج (درآمد و هزینه):"
+
+#~ msgid "Bid"
+#~ msgstr "پیشنهاد"
+
+#~ msgid "Enter or more to bid the top rank"
+#~ msgstr "برای بالا ماندن در رتبه بالاتر، پیشنهاد قیمت بیشتری را وارد نمائید"
+
+#~ msgid "No data available"
+#~ msgstr "هیچ اطلاعاتی موجود نیست"
+
+#~ msgid "vimeo"
+#~ msgstr "vimeo"
+
+#~ msgid "Message Board"
+#~ msgstr "پیام هیئت مدیره"
+
+#~ msgid "Subject"
+#~ msgstr "موضوع"
+
+#~ msgid "Contact"
+#~ msgstr "تماس"
+
+#~ msgid "Your Bid Amount"
+#~ msgstr "مبلغ یا مقدار پایه پیشنهادی شما"
+
+#~ msgid "Please enter a amount"
+#~ msgstr "لطفا یک مقدار را وارد کنید"
+
+#~ msgid "Change bid amount to see the changes in projected rank"
+#~ msgstr ""
+#~ "تغییر میزان افزایش قیمت کالا از مبلغ پایه برای تغییر سقف مبلغ پیشنهادی"
+
+#~ msgid "Projected Rank:"
+#~ msgstr "سقف مبلغ پیشنهادی:"
+
+#~ msgid "when this bid goes live"
+#~ msgstr "هنگامی که به این پیشنهاد رسید، برو به حالت آنلاین"
+
+#~ msgid ""
+#~ " What does the Projected Rank mean?\n"
+#~ "\t\t\t\t\t  This means that once the bid takes affect (goes live)\n"
+#~ "\t\t\t\t\t  we estimate that your listing will acheive this rank.\n"
+#~ "\t\t\t\t\t  The top spot will go to the highest bidder."
+#~ msgstr ""
+#~ " سقف مبلغ پیشنهادی چیست؟\n"
+#~ "\n"
+#~ " در مزایده ها هنگامی که شما پیشنهاد قیمتی را بابت کالایی می دهید، بدان "
+#~ "معنی است که حداکثر مبلغی را که برای خرید آن کالا تمایل دارید را اعلام "
+#~ "خواهید کرد (به صورت لایو)\n"
+#~ "\n"
+#~ "ما آنرا با پیشنهادهای دریافت شده در لیست شما محاسبه می کنیم.\n"
+#~ "\n"
+#~ "بیشترین مبلغ پیشنهاد شده در بالاترین جایگاه قرار میگیرد."
+
+#~ msgid "Low Balance: Please Add More Balance to Bid."
+#~ msgstr ""
+#~ "سقف پیشنهادی شما کمتر از دیگران است: لطفا برای ماندن در مزایده سقف مبلغ "
+#~ "پیشنهادی خود را افزایش دهید."
+
+#~ msgid "Directory Search for Directory pro Plugin "
+#~ msgstr "جستجوی دایرکتوری با جستجوگر حرفه ای ایی بن ایران "
+
+#~ msgid "Wp Directory Pro"
+#~ msgstr "دایرکتوری حرفه ای"
+
+#~ msgid "Bidding Setting"
+#~ msgstr "تنظیم مزایده"
+
+#~ msgid "Bidding Radius"
+#~ msgstr "محدوده جغرافیایی مزایده"
+
+#~ msgid "Bidding Start Amount"
+#~ msgstr "مبلغ پایه مزایده"
+
+#~ msgid "Save Package"
+#~ msgstr "ذخیره پکیچ"
+
+#~ msgid "Create Package / Membership Level"
+#~ msgstr "ساخت پکیج / سطح عضویت"
+
+#~ msgid "Package Feature List"
+#~ msgstr "لیست ویژگی های پکیج"
+
+#~ msgid "It will display on price list table"
+#~ msgstr "بر روی جدول لیست قیمت نمایش داده خواهد شد"
+
+#~ msgid "Billing Details"
+#~ msgstr "جزئیات مزایده"
+
+#~ msgid "Initial Payment"
+#~ msgstr "پرداخت اولیه"
+
+#~ msgid "The initial amount collected at user registration."
+#~ msgstr "مبالغ اولیه جمع آوری شده در هنگام ثبت نام کاربران"
+
+#~ msgid "Package Expire After"
+#~ msgstr "انقضا پکیج بعد از"
+
+#~ msgid ""
+#~ "If select none then user package will expire after 19 years. Package "
+#~ "Expire Option will not work on Recurring Subscription. \"Billing Cycle "
+#~ "Limit\" will Work For Recurring Subscription."
+#~ msgstr ""
+#~ " اگر هیچ یک از موارد را انتخاب نکنید، پکیج کاربر پس از 19 سال منقضی می "
+#~ "گردد. گزینه انقضا پکیج در تکرار اشتراک کار نخواهد کرد. \"محدوده چرخه "
+#~ "حسابداری\" (چرخه صدور صورتحساب) برای تکرار اشتراک کار خواهد کرد."
+
+#~ msgid "Recurring Subscription"
+#~ msgstr "تکرار اشتراک"
+
+#~ msgid "Enable Recurring Payment"
+#~ msgstr "فعال کردن تکرار اشتراک"
+
+#~ msgid "Billing Amount"
+#~ msgstr "مبلغ صورت حساب"
+
+#~ msgid "Per"
+#~ msgstr "توسط"
+
+#~ msgid "The \"Billing Amount\" will Collect at User Registration."
+#~ msgstr "مبلغ صورتحساب در هنگام ثبت نام کاربر دریافت می شود."
+
+#~ msgid "Billing Cycle Limit"
+#~ msgstr "محدوده چرخه صدور صورتحساب"
+
+#~ msgid "Trial"
+#~ msgstr "حالت آزمایشی"
+
+#~ msgid "Enable Trial Period"
+#~ msgstr "فعال کردن دروه زمانی حالت آزمایشی (امتحان کردن)"
+
+#~ msgid "\"Billing Amount\" will Collect After Trial Period. "
+#~ msgstr "مبلغ صورتحساب \"پس از دوره آزمایشی و تست دریافت می‌شود\"."
+
+#~ msgid "Trial Amount"
+#~ msgstr "مدت زمان حالت تست (آزمایشی)"
+
+#~ msgid "Categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgid "Parent Item:"
+#~ msgstr "آیتم والد:"
+
+#~ msgid "All Items"
+#~ msgstr "همه آیتم ها"
+
+#~ msgid "Add New Item"
+#~ msgstr "اضافه کردن آیتم جدید"
+
+#~ msgid "New Item"
+#~ msgstr "آیتم جدید"
+
+#~ msgid "Edit Item"
+#~ msgstr "ویرایش آیتم"
+
+#~ msgid "Update Item"
+#~ msgstr "بروز رسانی آیتم"
+
+#~ msgid "View Item"
+#~ msgstr "نمایش آیتم"
+
+#~ msgid "Search Item"
+#~ msgstr "جستجوی آیتم"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "در حذف شده ها پیدا نشد"
+
+#~ msgid "Pricing Table Dir-Pro"
+#~ msgstr "جدول قیمت های مارکتینگ حرفه ای ایی بن ایران"
+
+#~ msgid "Content"
+#~ msgstr "محتوا"
+
+#~ msgid "Style Name"
+#~ msgstr "استایل نام"
+
+#~ msgid "Default"
+#~ msgstr "پیش فرض"
+
+#~ msgid "You can select the style from wp-admin e.g : style-1."
+#~ msgstr ""
+#~ "شما میتوانید استایل را از کنترل پنل ادمین انتخاب کنید. به طور مثال: "
+#~ "استیل-1"
+
+#~ msgid "Signup Dir-Pro"
+#~ msgstr "ثبت نام در مارکتینگ حرفه ای ایی بن ایران"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "My Acount Dir-Pro"
+#~ msgstr "حساب کاربری من"
+
+#~ msgid "Public Profile Dir-Pro"
+#~ msgstr "پروفایل عمومی تبلیغات"
+
+#~ msgid "You can select the style from wp-admin e.g : style-1 , style-2 "
+#~ msgstr ""
+#~ "شما میتوانید استایل را از کنترل پنل ادمین انتخاب کنید. به طور مثال: "
+#~ "استیل-1 و استایل-2"
+
+#~ msgid "User Directory Dir-Pro"
+#~ msgstr "دایرکتوری کاربر"
+
+#~ msgid "Show  number of user / Page"
+#~ msgstr "نمایش تعداد کاربران در هر صفحه"
+
+#~ msgid "12"
+#~ msgstr "12"
+
+#~ msgid "You can set the number : 10,20 "
+#~ msgstr "شما می توانید اعداد را تنظیم کنید. مثلا: 10و20"
+
+#~ msgid "Login Dir-Pro"
+#~ msgstr "ورود به کنترل پنل مارکتینگ حرفه ای ایی بن ایران"
+
+#~ msgid " Login"
+#~ msgstr "ورود"
+
+#~ msgid "Default "
+#~ msgstr "پیش فرض"
+
+#~ msgid "Claim Approve "
+#~ msgstr "درخواست تایید توانمندی‌ها "
+
+#~ msgid "My Account"
+#~ msgstr "حساب کاربری من"
+
+#~ msgid "Short Code"
+#~ msgstr "کدهای کوتاه"
+
+#~ msgid "Php Code"
+#~ msgstr "کدهای پی اچ پی"
+
+#~ msgid "My Account Page"
+#~ msgstr "صفحه حساب کاربری"
+
+#~ msgid "View Page"
+#~ msgstr "نمایش صفحه"
+
+#~ msgid "Profile Fields Setting"
+#~ msgstr "تنظیمات فیلدهای پروفایل"
+
+#~ msgid "Add /Edit/ Remove Profile Fields"
+#~ msgstr "اضافه کردن/ویرایش کردن/حذف کردن فیلدهای پروفایل"
+
+#~ msgid "My Account Menu"
+#~ msgstr "منوی حساب کاربری من"
+
+#~ msgid "Show/Hide/Add Menu"
+#~ msgstr "نمایش/مخفی کردن/اضافه کردن منو"
+
+#~ msgid "User ID :"
+#~ msgstr "شناسه کاربر:"
+
+#~ msgid "Approve"
+#~ msgstr "تایید"
+
+#~ msgid "Directory Setting"
+#~ msgstr "تنظیمات دایرکتوری"
+
+#~ msgid "Listing Page toggle button[Search + Map] "
+#~ msgstr "فهرست صفحه دکمه تغییر حالت [جستجو + نقشه]"
+
+#~ msgid "Show"
+#~ msgstr "نمایش دادن"
+
+#~ msgid "Hide"
+#~ msgstr "مخفی کردن"
+
+#~ msgid "Listing Page Top Map"
+#~ msgstr "لیست کردن صفحه در بالای نقشه"
+
+#~ msgid "Show  Top Map"
+#~ msgstr "نمایش در بالای نقشه"
+
+#~ msgid "Action"
+#~ msgstr "اقدام کردن"
+
+#~ msgid "Create Date"
+#~ msgstr "ایجاد تاریخ"
+
+#~ msgid "Expiry Date"
+#~ msgstr "تاریخ انقضا"
+
+#~ msgid "Role"
+#~ msgstr "نقش"
+
+#~ msgid "Balance"
+#~ msgstr "میزان اعتبار یا سقف پیشنهاد"
+
+#~ msgid "iv_membership Affiliate Dashboard"
+#~ msgstr "داشبورد لیست دایرکتوری های همکاری در فروش"
+
+#~ msgid "Your Dashboard, Summary, Status, Shortcuts to modules"
+#~ msgstr "داشبورد شما، خلاصه، وضعیت، کلید های میانبر برای ماژول"

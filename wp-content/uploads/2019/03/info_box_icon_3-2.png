@@ -1,0 +1,1013 @@
+
+<!DOCTYPE html>
+<!--[if !IE]><!--> <html lang="en-US"> <!--<![endif]-->
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<style id="kirki-css-vars">:root{}</style><title>Page not found &#8211; Seocify</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Seocify &raquo; Feed" href="http://localhost/seocify/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Seocify &raquo; Comments Feed" href="http://localhost/seocify/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/seocify\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://localhost/seocify/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://localhost/seocify/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://localhost/seocify/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://localhost/seocify/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.5.1' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://localhost/seocify/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.5.1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='parent-style-css'  href='http://localhost/seocify/wp-content/themes/seocify/style.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://localhost/seocify/wp-content/themes/seocify-child/style.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='seocify-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato%3Aregular%7CNunito%3A300%2C400%2C600%2C700%2C900&#038;ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/bootstrap.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='iconfont-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/iconfont.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/magnific-popup.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/animate.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://localhost/seocify/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/owl.carousel.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-default-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/owl.theme.default.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='seocify-navigation-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/navigation.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-structure-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/jquery-ui.structure.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-theme-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/jquery-ui.theme.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='seocify-style-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/style.css?ver=1.0' type='text/css' media='all' />
+<style id='seocify-style-inline-css' type='text/css'>
+
+            .woocommerce ul.products li.product .added_to_cart:hover,
+            .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover{background-color: ;}
+            .woocommerce ul.products li.product .button,.woocommerce ul.products li.product .added_to_cart,
+			.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current,
+			.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.sponsor-web-link a:hover i
+		{background-color: ;}
+</style>
+<link rel='stylesheet' id='seocify-responsive-css'  href='http://localhost/seocify/wp-content/themes/seocify/assets/css/responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-global-css'  href='http://localhost/seocify/wp-content/plugins/kirki/assets/css/kirki-styles.css?ver=3.0.34.1' type='text/css' media='all' />
+<style id='kirki-styles-global-inline-css' type='text/css'>
+#preloader{background-color:#ffffff;}.footer-widget .contact-form .submit-btn{border-color:#ffffff;}.pagination li a:hover, .pagination li.active a{background-color:#ffffff;}.widget .tagcloud a:hover{background-color:#ffffff;border-color:#ffffff;}blockquote{background-color:#ffffff;}.sidebar .widget ul li a:hover{color:#ffffff;}.post-tags > span{color:#ffffff;}.post-tags > a:hover{color:#ffffff;}.single-post-nav .post-nav-title{color:#ffffff;}.footer-widget ul li a:hover{color:#ffffff;}.xs-header.header-main .navSidebar-wraper .navSidebar-button:hover{background-color:#ffffff;}.xs-serach.style2 .search-btn{background-color:#ffffff;}.btn.btn-primary{background-color:#ffffff;}.blog-sidebar-wraper .widget .xs-title:before{background:#ffffff;}.xs-list.bullet li::before{background:#ffffff;}.xs-comments-area .comments-title:before{background:#ffffff;}.entry-header .entry-meta i, .comment-author i{color:#ffffff;}.xs-comments-area .reply .comment-reply-link{color:#ffffff;}a{color:#ffffff;}.subscribe-from p,.sideabr-list-widget span,.close-side-widget,.subscribe-from .sub-btn{color:#ffffff;}.widget.widget_recent_entries ul li a:hover, .widget.widget_recent_comments ul li a:hover, .widget.widget_meta ul li a:hover, .widget.widget_pages ul li a:hover, .widget.widget_archive ul li a:hover, .widget.widget_nav_menu ul li a:hover, .widget.widget_categories ul li a:hover{color:#ffffff;}.inner-banner-area{background-color:#ffffff;}.header .xs-top-bar{background-color:#ffffff;}.contact-info > a{color:#ffffff;}.xs-top-bar.version-2{background-color:#ffffff;}.header-new .btn-danger:not([class*=btn-outline-]){background-color:#ffffff;}.xs-inline-form .check-btn:hover{background-color:#ffffff;}.header.sticky .xs-header.header-main{background-color:#ffffff;}.sticky-header.header.sticky .xs-header.header-main .xs-menus .nav-menu > li > a{color:#181818;border-color:#181818;}.sticky-header.header.sticky .xs-header.header-main .xs-menus .nav-menu > li > a::before{background-color:#181818;}.sticky-header.header.sticky .xs-header.header-main .xs-menus .nav-menu > li.active > a::before{-webkit-box-shadow:9px 0px 0px 0px #181818, 18px 0px 0px 0px #181818;-moz-box-shadow:9px 0px 0px 0px #181818, 18px 0px 0px 0px #181818;box-shadow:9px 0px 0px 0px #181818, 18px 0px 0px 0px #181818;}.xs-header.header-main .xs-menus .nav-menu li a{color:#ffffff;}.header .xs-header.header-main .xs-menus .nav-menu > li > a::before{background-color:#ffffff;}.header .xs-header.header-main .xs-menus .nav-menu > li > a .submenu-indicator-chevron{border-color:#ffffff;}.header-transparent:not(.sticky-header) .xs-header.header-main .xs-menus:not(.xs_nav-portrait) .nav-menu > li.active > a{color:#fcfcfc;}.header:not(.sticky-header) .xs-header.header-main .xs-menus:not(.xs_nav-portrait) .nav-menu > li.active > a::before{background-color:#fcfcfc;}.header-transparent:not(.sticky-header) .xs-header.header-main .xs-menus:not(.xs_nav-portrait) .nav-menu > li.active > a .submenu-indicator-chevron{border-color:#fcfcfc;}.header-transparent:not(.sticky-header) .xs-header.header-main .xs-menus:not(.xs_nav-portrait) .nav-menu > li.active > a::before{-webkit-box-shadow:9px 0px 0px 0px #ffffff, 18px 0px 0px 0px #ffffff;-moz-box-shadow:9px 0px 0px 0px #ffffff, 18px 0px 0px 0px #ffffff;box-shadow:9px 0px 0px 0px #ffffff, 18px 0px 0px 0px #ffffff;}.xs-header.header-main .xs-menus .nav-menu .nav-submenu li a{color:#181818;}.xs-header.header-main .xs-menus .nav-menu .nav-submenu li a:hover{color:#181818;}.footer-widget .xs-content-title{color:#ffffff;}footer.xs-footer-section.footer-group p{color:#ffffff;}.footer-widget ul li a{color:#ffffff;}.footer-widget ul li p{color:#ffffff;}footer.xs-footer-section.footer-group a{color:#ffffff;}body{font-family:Lato, Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:1.7333333333;color:#192225;}h1,h2,h3,h4,h5,h6{font-family:Lato, Helvetica, Arial, sans-serif;font-weight:700;color:#192225;}
+</style>
+<script type='text/javascript' src='http://localhost/seocify/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.2'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.2'></script>
+<link rel='https://api.w.org/' href='http://localhost/seocify/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/seocify/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/seocify/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+<meta name="generator" content="WooCommerce 3.5.1" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.4.7.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://localhost/seocify/wp-content/uploads/2018/12/cropped-logo-15-100x100.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/seocify/wp-content/uploads/2018/12/cropped-logo-15-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://localhost/seocify/wp-content/uploads/2018/12/cropped-logo-15-300x300.png" />
+<meta name="msapplication-TileImage" content="http://localhost/seocify/wp-content/uploads/2018/12/cropped-logo-15-300x300.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+		<style type="text/css" id="wp-custom-css">
+			.contact-info {
+    color: #fff;
+}
+.header-new .xs-menus .nav-menu>li>a {
+    color: #fff;
+    font-weight: 500;
+}
+.header-transparent .xs-header {
+    border-bottom: 1px solid rgba(139, 80, 26, 0.25);
+}
+.header-new {
+    box-shadow: 0px 10px 25px 0px rgba(139, 80, 26, 0.25);
+}
+.nav-btn .btn{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#8a63f2+0,6a38da+100 */
+background: #8a63f2; /* Old browsers */
+background: -moz-linear-gradient(left, #8a63f2 0%, #6a38da 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #8a63f2 0%,#6a38da 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #8a63f2 0%,#6a38da 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8a63f2', endColorstr='#6a38da',GradientType=1 ); /* IE6-9 */
+}
+a.xs-btn{
+	 background-size: 101%;
+}
+.transition{
+  transition: all .4s;
+}
+.home-style-8 .testimonial-slider-thumb .owl-dots button span{
+	background: #fff;
+}
+.newsletter-thumb-wraper.home-8{
+background: rgb(255,152,2);
+background: linear-gradient(-35deg, rgba(255,152,2,1) 0%, rgba(255,4,126,1) 100%);
+}
+.single-fact {
+    padding: 43.4px 60px;
+}
+.header-transparent .header-new{
+	box-shadow: none;
+  background-color: rgba(255,255,255,.07);
+	border-bottom: 0px;
+}
+@media (max-width: 991px) {
+	.header-new .xs-menus .nav-menu>li>a {
+			color: #000;
+	}
+}
+.sticky-header.sticky.header-transparent .header-new {
+    box-shadow: 0px 10px 25px 0px rgba(56, 105, 233, 0.25);
+}
+.sticky-header.sticky.header-transparent .contact-info ,
+.sticky-header.sticky.header-transparent .contact-info > a {
+    color: #000;
+}		</style>
+	    </head>
+
+    <body class="error404 woocommerce-no-js elementor-default" data-spy="scroll" data-target="#header">
+
+    <div class="header nav-sticky header-transparent">
+                
+<header class="xs-header header-new">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="xs-logo-wraper">
+                    <div class=" header-info">
+                        <a href="http://localhost/seocify/" class="xs-logo">
+                                                            <img src="http://localhost/seocify/wp-content/uploads/2018/12/logo-transparent-header-5.png" alt="Seocify">
+                                                                                        <img src="http://localhost/seocify/wp-content/uploads/2018/12/logo-14.png" alt="Seocify" class="logo-sticky">
+                                                    </a>
+                    </div>
+
+                                            <div class="header-info">
+                            <span class="contact-info">
+                                Call Now                                <a href="tel:009-215-5596">009-215-5596</a>
+                            </span>
+                        </div>
+                                    </div>
+            </div> 
+            <div class="col-lg-8">
+                <nav class="xs-menus align-to-right">
+                    <div class="nav-header">
+                        <a class="nav-brand" href="http://localhost/seocify/"></a>
+                        <div class="nav-toggle"></div>
+                    </div>
+                    <div class="nav-menus-wrapper clearfix">
+                        <ul id="main-menu" class="nav-menu single-page-menu"><li id="menu-item-3008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-"><a title="Home" href="#">Home</a>
+<ul role="menu" class="nav-dropdown">
+	<li id="menu-item-3072" class="menu-item menu-item-type-post_type menu-item-object-mega_menu menu-item-"><div class="megamenu-content">		<div class="elementor elementor-2842">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="3dd9dd93" class="elementor-element elementor-element-3dd9dd93 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="b2d85d0" class="elementor-element elementor-element-b2d85d0 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="41f3663d" class="elementor-element elementor-element-41f3663d elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/01-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home One</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="2d17f48a" class="elementor-element elementor-element-2d17f48a elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="73ce2ffc" class="elementor-element elementor-element-73ce2ffc elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/home-two/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/02-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home Two</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="3544d5ae" class="elementor-element elementor-element-3544d5ae elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="67941cc2" class="elementor-element elementor-element-67941cc2 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/home-three/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/03-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home Three</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="38cc2ce3" class="elementor-element elementor-element-38cc2ce3 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="2ddce51b" class="elementor-element elementor-element-2ddce51b elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/home-seven/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/04-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home Four</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="2ce8839e" class="elementor-element elementor-element-2ce8839e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="7d38fb71" class="elementor-element elementor-element-7d38fb71 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="5aed091f" class="elementor-element elementor-element-5aed091f elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/home-five/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/05-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home Five</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="4e20c4c8" class="elementor-element elementor-element-4e20c4c8 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="a1f2646" class="elementor-element elementor-element-a1f2646 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/home-six/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/06-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home Six</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="1ebe9d55" class="elementor-element elementor-element-1ebe9d55 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="06faa60" class="elementor-element elementor-element-06faa60 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/home-seven/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/home_v9_nav.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home Seven</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="5b44fc87" class="elementor-element elementor-element-5b44fc87 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="396a5e7" class="elementor-element elementor-element-396a5e7 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="http://localhost/seocify/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/home_v8_nav.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Home Eight</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="4d594e09" class="elementor-element elementor-element-4d594e09 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="510f7393" class="elementor-element elementor-element-510f7393 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7c09ca9d" class="elementor-element elementor-element-7c09ca9d elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/onepage-style-one/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/07-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">One Page Style One</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="76beb5c4" class="elementor-element elementor-element-76beb5c4 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7821721" class="elementor-element elementor-element-7821721 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/onepage-style-two/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/08-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">One Page Style Two</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="65665c0f" class="elementor-element elementor-element-65665c0f elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7b3ce5ea" class="elementor-element elementor-element-7b3ce5ea elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/onepage-style-three/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/09-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">One Page Style Three</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="218b6f65" class="elementor-element elementor-element-218b6f65 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="7ea07143" class="elementor-element elementor-element-7ea07143 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/onepage-style-four/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/10-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">One Page Style Four</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="17a36f1" class="elementor-element elementor-element-17a36f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="5911cfd" class="elementor-element elementor-element-5911cfd elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3866e26a" class="elementor-element elementor-element-3866e26a elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="https://wp.xpeedstudio.com/seocify/onepage-style-five/" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/11-1.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">One Page Style Five</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="a0ad4f8" class="elementor-element elementor-element-a0ad4f8 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="3fa1c62" class="elementor-element elementor-element-3fa1c62 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="#" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/coming_soon_nav.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Coming Soon</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="0e1133e" class="elementor-element elementor-element-0e1133e elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="a58f0a3" class="elementor-element elementor-element-a58f0a3 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="#" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/coming_soon_nav.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Coming Soon</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="975f9c7" class="elementor-element elementor-element-975f9c7 elementor-column elementor-col-25 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="4bad3be" class="elementor-element elementor-element-4bad3be elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+							<figure class="wp-caption">
+											<a href="#" data-elementor-open-lightbox="">
+							<img width="227" height="186" src="http://localhost/seocify/wp-content/uploads/2018/11/coming_soon_nav.png" class="attachment-large size-large" alt="" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Coming Soon</figcaption>
+										</figure>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div></li>
+</ul>
+</li>
+<li id="menu-item-3009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-"><a title="Pages" href="#">Pages</a>
+<ul role="menu" class="nav-dropdown">
+	<li id="menu-item-3055" class="menu-item menu-item-type-post_type menu-item-object-mega_menu menu-item-"><div class="megamenu-content">		<div class="elementor elementor-196">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<div data-id="72fd406" class="elementor-element elementor-element-72fd406 xs-icon-menu elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="d0e3c63" class="elementor-element elementor-element-d0e3c63 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="f65bf51" class="elementor-element elementor-element-f65bf51 elementor-widget elementor-widget-xs-page-list-link" data-element_type="xs-page-list-link.default">
+				<div class="elementor-widget-container">
+			        <ul class="xs-icon-menu">
+                                                        <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/about/">
+                                                                <i class="icon icon-briefcase"></i>
+                                                                About                            </a>
+                        </li>
+                                                                                    <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/pricing/">
+                                                                <i class="icon icon-direction"></i>
+                                                                Pricing                            </a>
+                        </li>
+                                                                                    <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/case-studies/">
+                                                                <i class="icon icon-line-chart"></i>
+                                                                Case Studies                            </a>
+                        </li>
+                                                </ul>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="8b9ef08" class="elementor-element elementor-element-8b9ef08 elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="c65ce38" class="elementor-element elementor-element-c65ce38 elementor-widget elementor-widget-xs-page-list-link" data-element_type="xs-page-list-link.default">
+				<div class="elementor-widget-container">
+			        <ul class="xs-icon-menu">
+                                                        <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/faq/">
+                                                                <i class="icon icon-question-circle"></i>
+                                                                FAQ                            </a>
+                        </li>
+                                                                                    <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/team/">
+                                                                <i class="icon icon-folder2"></i>
+                                                                Team                            </a>
+                        </li>
+                                                                                    <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/google-map/">
+                                                                <i class="icon icon-chat"></i>
+                                                                Google Map                            </a>
+                        </li>
+                                                </ul>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div data-id="d1c7b7b" class="elementor-element elementor-element-d1c7b7b elementor-column elementor-col-33 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="5eb91b9" class="elementor-element elementor-element-5eb91b9 elementor-widget elementor-widget-xs-page-list-link" data-element_type="xs-page-list-link.default">
+				<div class="elementor-widget-container">
+			        <ul class="xs-icon-menu">
+                                                        <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/404/">
+                                                                <i class="icon icon-padlock-1"></i>
+                                                                404                            </a>
+                        </li>
+                                                                                    <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/testimonial/">
+                                                                <i class="icon icon-users"></i>
+                                                                Testimonial                            </a>
+                        </li>
+                                                                                    <li class="single-menu-item">
+                            <a href="https://wp.xpeedstudio.com/seocify/home-seven/typography/">
+                                                                <i class="icon icon-agenda-1"></i>
+                                                                Typography                            </a>
+                        </li>
+                                                </ul>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</div>
+		</div></li>
+</ul>
+</li>
+<li id="menu-item-3057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-"><a title="Services" href="#">Services</a>
+<ul role="menu" class="nav-dropdown">
+	<li id="menu-item-3058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Email Marketing" href="https://wp.xpeedstudio.com/seocify/email-marketing/">Email Marketing</a></li>
+	<li id="menu-item-3059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Offline SEO" href="https://wp.xpeedstudio.com/seocify/offline-seo/">Offline SEO</a></li>
+	<li id="menu-item-3060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Social Media Marketing" href="https://wp.xpeedstudio.com/seocify/social-media-marketing/">Social Media Marketing</a></li>
+	<li id="menu-item-3061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Lead Generation" href="https://wp.xpeedstudio.com/seocify/lead-generation/">Lead Generation</a></li>
+	<li id="menu-item-3062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Growth Hacking" href="https://wp.xpeedstudio.com/seocify/growth-hacking/">Growth Hacking</a></li>
+	<li id="menu-item-3063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Search Engine Optimization" href="https://wp.xpeedstudio.com/seocify/search-engine-optimization/">Search Engine Optimization</a></li>
+</ul>
+</li>
+<li id="menu-item-3010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-"><a title="Blog" href="#">Blog</a>
+<ul role="menu" class="nav-dropdown">
+	<li id="menu-item-3065" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Blog" href="https://wp.xpeedstudio.com/seocify/blog/">Blog</a></li>
+	<li id="menu-item-3056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Blog Single" href="https://wp.xpeedstudio.com/seocify/best-and-fastest-data-server/">Blog Single</a></li>
+</ul>
+</li>
+<li id="menu-item-3064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-"><a title="Contact" href="https://wp.xpeedstudio.com/seocify/contact/">Contact</a></li>
+</ul>                                                    <div class="nav-btn">
+                                <a href="" class="btn btn-danger">Free Analysis</a>
+                            </div>
+                                            </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>    </div>
+	<section class="inner-banner-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="inner-banner-content">
+						<h1 class="inner-banner-title">
+							404	                    </h1>
+													<ul class="breadcumbs list-inline"><li><a href="http://localhost/seocify">Home</a> / 404 Not Found</li></ul>											</div>
+				</div>
+			</div>
+	    </div>
+					<div class="banner-image" style="background-image: url(http://localhost/seocify/wp-content/uploads/2018/12/sub_header_image_without_overlay-34.jpg)"></div>
+			</section>
+
+<section class="xs-section-padding" data-scrollax-parent="true">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 mx-auto text-center">
+                <div class="content-404">
+                    <h2 class="title-404">Error Page</h2>
+                    <p>Either Something went wrong or the page doesn&#039;t exist anymore</p>
+                    <a href="http://localhost/seocify/" class="btn btn-primary">Back to Home</a>
+                </div>
+            </div>
+            <div class="col-lg-8 mx-auto text-center">
+                            <div class="img-404">
+                    <img src="http://localhost/seocify/wp-content/themes/seocify/assets/images/404.png" data-scrollax="properties: { translateY: '-50%' }" alt="404-logo">
+                </div>
+            
+
+                
+            </div>
+        </div><!-- .row END -->
+    </div><!-- .container END -->
+</section><!-- end 404 section -->
+<footer class="xs-footer-section">
+<div class="container">
+    <div class="footer-top-area">
+        <div class="row">
+            <div class="col-md-4">
+                                    <div class="footer-logo">
+                        <a href="http://localhost/seocify/"><img src="http://localhost/seocify/wp-content/uploads/2018/12/footer-logo-6.png" alt="footer logo"></a>
+                    </div>
+                            </div>
+            <div class="col-md-8">
+                <ul class="address-info-list list-inline">
+                    <li>
+                                                    <div class="address-icon">
+                                <img src="http://localhost/seocify/wp-content/uploads/2018/12/pin-6.png" alt="footer logo">
+                            </div>
+                                                <div class="address-info addr"><a href="">1010 Grand Avenue <br /> New York, USA</a></div>
+                    </li>
+                    <li>
+                                                    <div class="address-icon">
+                                <img src="http://localhost/seocify/wp-content/uploads/2018/12/massage-6.png" alt="footer logo">
+                            </div>
+                                                <div class="address-info"><a class="phn" href="tel:009-215-5596">009-215-5596</a> <br> <a class="email" href="mailto:info@example.com">info@example.com</a></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <div class="footer-main">
+        <div class="container">
+            <div class="row">
+                                    <div class="col-md-3">
+                        <div class="footer-widget widget_nav_menu"><h4 class="xs-content-title">Our Company</h4><div class="menu-services-container"><ul id="menu-services" class="menu"><li id="menu-item-3066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3066"><a href="https://wp.xpeedstudio.com/seocify/home-seven/email-marketing/">Email Marketing</a></li>
+<li id="menu-item-3067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3067"><a href="https://wp.xpeedstudio.com/seocify/home-seven/offline-seo/">Offline SEO</a></li>
+<li id="menu-item-3068" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3068"><a href="https://wp.xpeedstudio.com/seocify/home-seven/lead-generation/">Lead Generation</a></li>
+<li id="menu-item-3070" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3070"><a href="https://wp.xpeedstudio.com/seocify/home-seven/growth-hacking/">Growth Hacking</a></li>
+<li id="menu-item-3071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3071"><a href="https://wp.xpeedstudio.com/seocify/home-seven/social-media-marketing/">Social Media Marketing</a></li>
+</ul></div></div>                    </div>
+                                    <div class="col-md-3">
+                        <div class="footer-widget widget_nav_menu"><h4 class="xs-content-title">Our Services</h4><div class="menu-services-container"><ul id="menu-services-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3066"><a href="https://wp.xpeedstudio.com/seocify/home-seven/email-marketing/">Email Marketing</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3067"><a href="https://wp.xpeedstudio.com/seocify/home-seven/offline-seo/">Offline SEO</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3068"><a href="https://wp.xpeedstudio.com/seocify/home-seven/lead-generation/">Lead Generation</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3070"><a href="https://wp.xpeedstudio.com/seocify/home-seven/growth-hacking/">Growth Hacking</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3071"><a href="https://wp.xpeedstudio.com/seocify/home-seven/social-media-marketing/">Social Media Marketing</a></li>
+</ul></div></div><div class="footer-widget seocify_widget"><h4 class="xs-content-title">Social</h4>		<div class="footer-social">
+			<ul class="xs-social-list xs-social-list-v6 seocify-social-list">
+
+		
+				
+				
+				
+				
+																																
+				
+												
+							</ul>
+		</div><!-- Footer social end -->
+
+		</div>                    </div>
+                                    <div class="col-md-3">
+                        		<div class="footer-widget widget_recent_entries">		<h4 class="xs-content-title">Recent Articles</h4>		<ul>
+											<li>
+					<a href="http://localhost/seocify/2018/12/13/twice-profit-than-before-you-ever-got-in-business/">Twice profit than before you ever got in business</a>
+											<span class="post-date">December 13, 2018</span>
+									</li>
+											<li>
+					<a href="http://localhost/seocify/2018/07/19/best-and-fastest-data-server/">Twice profit than before you ever got in business</a>
+											<span class="post-date">July 19, 2018</span>
+									</li>
+					</ul>
+		</div>                    </div>
+                                    <div class="col-md-3">
+                        <div class="footer-widget widget_text"><h4 class="xs-content-title">About Us</h4>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f2269-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/seocify/wp-content/uploads/2019/03/info_box_icon_3.png#wpcf7-f2269-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="2269" /><br />
+<input type="hidden" name="_wpcf7_version" value="5.0.4" /><br />
+<input type="hidden" name="_wpcf7_locale" value="en_US" /><br />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2269-o1" /><br />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<div class="contact-form"><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email" /></span><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false" placeholder="Message"></textarea></span><input type="submit" value="Submit now" class="submit-btn">
+</div>
+<div class="wpcf7-response-output wpcf7-display-none"></div>
+</form>
+</div>
+</div>
+		</div>                    </div>
+                            </div>
+        </div>
+    </div>
+    
+
+            <div class="partner-area-wraper">
+            <div class="container">
+                <div class="partner-area">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <ul class="xs-lsit list-inline">
+                                <li class="title"></li>
+                                                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/partner-2-1.png" alt="Twice profit than before you ever got in business"></li>                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/partner-1-1.png" alt="Twice profit than before you ever got in business"></li>                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/partner-3-1.png" alt="Twice profit than before you ever got in business"></li>                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/partner-4-1.png" alt="Twice profit than before you ever got in business"></li>                                                                                                </ul>
+                        </div>
+                        <div class="col-md-4">
+                            <ul class="xs-list list-inline text-right">
+                                                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/american-express-1.png" alt="Twice profit than before you ever got in business"></li>                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/visa-1.png" alt="Twice profit than before you ever got in business"></li>                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/discover-1.png" alt="Twice profit than before you ever got in business"></li>                                                                            <li><img src="http://localhost/seocify/wp-content/uploads/2018/08/master-card-1.png" alt="Twice profit than before you ever got in business"></li>                                                                                                </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="copyright-text">
+                        <p>Copyright 2018, Seocify. All Rights Reserved.</p>
+                    </div><!-- .copyright-text END -->
+                </div>
+                                    <div class="col-md-6">
+                        <ul class="social-list">
+                            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li><li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li><li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li><li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li><li><a class="google-plus" href="#"><i class="fa fa-google-plus"></i></a></li>                        </ul>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</footer>
+<div class="zoom-anim-dialog mfp-hide modal-searchPanel" id="modal-popup-2">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="xs-search-panel">
+                <form action="http://localhost/seocify/" class="xs-serach style2" method="get">
+    <div class="input-group">
+        <input type="search" name="s" placeholder="Search Here...">
+        <button class="search-btn"><i class="icon icon-search"></i></button>
+    </div>
+</form>            </div>
+        </div>
+    </div>
+</div>
+<div class="xs-sidebar-group info-group">
+    <div class="xs-overlay black-bg"></div>
+    <div class="xs-sidebar-widget">
+        <div class="sidebar-widget-container">
+            <div class="widget-heading">
+                <a href="#" class="close-side-widget">
+                    <i class='icon icon-cross'></i>
+                </a>
+            </div>
+            <div class="sidebar-textwidget">
+                                    <div class="sidebar-logo-wraper">
+                        <img src="http://localhost/seocify/wp-content/uploads/2018/12/logo-15.png"
+                             alt="">
+                    </div>
+                 
+                <p>Far far away, behind the word moun tains, far from the countries Consonantia, there live the blind texts.</p>
+
+                                    <ul class="sideabr-list-widget">
+                                                    <li>
+                                <div class="media">
+                                                                            <div class="d-flex">
+                                            <img src="http://localhost/seocify/wp-content/uploads/2018/09/location-1.png"
+                                                 alt="">
+                                        </div>
+                                                                        <div class="media-body">
+                                                                                    <p>759 Pinewood Avenue</p>
+                                                                                                                            <span>Marquette, Michigan</span>
+                                                                            </div>
+                                </div><!-- address 1 -->
+                            </li>
+                                                    <li>
+                                <div class="media">
+                                                                            <div class="d-flex">
+                                            <img src="http://localhost/seocify/wp-content/uploads/2018/09/mail-1.png"
+                                                 alt="">
+                                        </div>
+                                                                        <div class="media-body">
+                                                                                    <p>info@domain.com</p>
+                                                                                                                            <span>Online Support</span>
+                                                                            </div>
+                                </div><!-- address 1 -->
+                            </li>
+                                                    <li>
+                                <div class="media">
+                                                                            <div class="d-flex">
+                                            <img src="http://localhost/seocify/wp-content/uploads/2018/09/phone-1.png"
+                                                 alt="">
+                                        </div>
+                                                                        <div class="media-body">
+                                                                                    <p>906-624-2565</p>
+                                                                                                                            <span>Mon-Fri 8am-5pm</span>
+                                                                            </div>
+                                </div><!-- address 1 -->
+                            </li>
+                                            </ul><!-- .sideabr-list-widget -->
+                
+                                    <div class="subscribe-from">
+                        <p>Get Subscribed!</p>
+                        <script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2.5 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2275" method="post" data-id="2275" data-name="Get Newsletter" ><div class="mc4wp-form-fields"><div class="subscribe-form">
+  <input type="email" class="form-control newsletter-thumb" name="EMAIL" placeholder="Email">
+  <label></label>
+  <button class="sub-btn" type="submit"><i class="icon icon-arrow-right"></i><span>Submit now</span></button>
+</div></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1552559331" /><input type="hidden" name="_mc4wp_form_id" value="2275" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->                    </div>
+                                                    <ul class="social-list version-2">
+                                                    <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
+                                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                                    <li><a href="#" class="vimeo"><i class="fa fa-vimeo"></i></a></li>
+                                            </ul><!-- .social-list -->
+                                                <div class="text-center">
+                    <a href="" class="btn btn-primary">Purchase Now</a>
+                </div>
+                            </div>
+        </div>
+    </div>
+</div><div class="zoom-anim-dialog mfp-hide modal-language" id="modal-popup-wpml">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="language-content">
+                <p>Switch The Language</p>      
+                                    <ul class="flag-lists">
+                        <li><a href="#"><img src="http://localhost/seocify/wp-content/themes/seocify/assets/images/flags/006-united-states.svg" alt="English"><span>English</span></a></li>
+                        <li><a href="#"><img src="http://localhost/seocify/wp-content/themes/seocify/assets/images/flags/002-canada.svg" alt="English"><span>English</span></a></li>
+                        <li><a href="#"><img src="http://localhost/seocify/wp-content/themes/seocify/assets/images/flags/003-vietnam.svg" alt="Vietnamese"><span>Vietnamese</span></a></li>
+                        <li><a href="#"><img src="http://localhost/seocify/wp-content/themes/seocify/assets/images/flags/004-france.svg" alt="French"><span>French</span></a></li>
+                        <li><a href="#"><img src="http://localhost/seocify/wp-content/themes/seocify/assets/images/flags/005-germany.svg" alt="German"><span>German</span></a></li>
+                    </ul>
+                            </div>
+        </div>
+    </div>
+</div><script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='elementor-frontend-css'  href='http://localhost/seocify/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-2842-css'  href='http://localhost/seocify/wp-content/uploads/elementor/css/post-2842.css?ver=1546927427' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-196-css'  href='http://localhost/seocify/wp-content/uploads/elementor/css/post-196.css?ver=1546927427' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://localhost/seocify/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=3.8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://localhost/seocify/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='http://localhost/seocify/wp-content/uploads/elementor/css/global.css?ver=1546927426' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=4.9.10' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/localhost\/seocify\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/seocify\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/seocify\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/localhost\/seocify","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/seocify\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/seocify\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/seocify\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/seocify\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_3aa5fd03119dad5b4c4006e036f141c6","fragment_name":"wc_fragments_3aa5fd03119dad5b4c4006e036f141c6"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify-child/custom.js?ver=4.9.10'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/navigation.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/wow.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/Popper.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/bootstrap.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/jquery.magnific-popup.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/owl.carousel.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/jquery.ajaxchimp.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/jquery.waypoints.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/isotope.pkgd.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/scrollax.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/delighters.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/jquery.easypiechart.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/jquery.parallax.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/particles.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var xs_partical_obj = {"color1":"[\"#ff727d\",\"#ff7a84\",\"#ff7a84\"]","color2":"[\"#ff7a84\",\"#ff7a84\"]"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/app.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/main.js?ver=1.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/kirki/modules/webfont-loader/vendor-typekit/webfontloader.js?ver=3.0.28'></script>
+<script type='text/javascript'>
+WebFont.load({google:{families:['Lato:400,700:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai']}});
+WebFont.load({google:{families:['Lato:400,700:cyrillic,cyrillic-ext,devanagari,greek,greek-ext,khmer,latin,latin-ext,vietnamese,hebrew,arabic,bengali,gujarati,tamil,telugu,thai']}});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.2.5'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.2.5'></script>
+<![endif]-->
+<script type='text/javascript' src='http://localhost/seocify/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.5.0'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/elementor/assets/lib/swiper/swiper.jquery.min.js?ver=4.4.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var elementorFrontendConfig = {"isEditMode":"","is_rtl":"","breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.2.7","urls":{"assets":"http:\/\/localhost\/seocify\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":0,"title":"Page not found &#8211; Seocify","excerpt":""}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.2.7'></script>
+<script type='text/javascript' src='http://localhost/seocify/wp-content/themes/seocify/assets/js/elementor.js?ver=1.0'></script>
+</body>
+</html>

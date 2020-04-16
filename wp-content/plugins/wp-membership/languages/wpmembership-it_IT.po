@@ -1,0 +1,779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp-membership\n"
+"POT-Creation-Date: 2016-02-14 21:16+0600\n"
+"PO-Revision-Date: 2016-02-14 21:16+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin.php:1201
+msgid "Sorry, BootstrapPress re requires WordPress "
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:193
+#: template/user-directory/directory-template-1.php:481
+#: template/user-directory/directory-template-2.php:450
+msgid "&laquo; Previous"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:194
+#: template/user-directory/directory-template-1.php:482
+#: template/user-directory/directory-template-2.php:451
+msgid "Next &raquo;"
+msgstr ""
+
+#: admin/pages/profile-fields.php:59
+#: template/private-profile/profile-template-1.php:482
+#: template/private-profile/profile-level-1.php:303
+msgid "Membership Level"
+msgstr ""
+
+#: admin/pages/profile-fields.php:84
+msgid "Account Settings"
+msgstr ""
+
+#: admin/pages/profile-fields.php:107
+msgid "All post"
+msgstr ""
+
+#: admin/pages/profile-fields.php:130
+msgid "New post"
+msgstr ""
+
+#: admin/pages/profile-fields.php:154
+msgid "Woocommerce Billing Address"
+msgstr ""
+
+#: admin/pages/settings.php:970
+msgid "Tax Setting"
+msgstr ""
+
+#: admin/pages/settings.php:995
+msgid "Tax Module "
+msgstr ""
+
+#: admin/pages/settings.php:999
+msgid "Active Tax On Registration"
+msgstr ""
+
+#: admin/pages/settings.php:1004
+msgid "No Tax"
+msgstr ""
+
+#: admin/pages/settings.php:1009
+msgid "Update"
+msgstr ""
+
+#: admin/pages/settings.php:1013
+msgid "Tax Type "
+msgstr ""
+
+#: admin/pages/settings.php:1017
+msgid "Common Tax"
+msgstr ""
+
+#: admin/pages/settings.php:1022
+msgid "Tax By Country"
+msgstr ""
+
+#: admin/pages/settings.php:1034
+msgid "Common Tax % "
+msgstr ""
+
+#: admin/pages/settings.php:1047
+#: template/private-profile/profile-billing-address.php:59
+msgid "Country"
+msgstr ""
+
+#: admin/pages/settings.php:1048
+msgid "Tax %"
+msgstr ""
+
+#: admin/pages/settings.php:1349
+msgid "Note : Tax will not work on Stripe Ruccring Subscriotion Payment"
+msgstr ""
+
+#: admin/pages/price-table/price-table-1.php:207
+#: admin/pages/price-table/price-table-5.php:179
+#: admin/pages/price-table/price-table-2.php:273
+#: admin/pages/price-table/price-table-7.php:210
+#: admin/pages/price-table/price-table-6.php:207
+#: admin/pages/price-table/price-table-3.php:614
+#: admin/pages/price-table/price-table-4.php:438
+msgid "Free"
+msgstr ""
+
+#: admin/pages/price-table/price-table-1.php:254
+#: admin/pages/price-table/price-table-5.php:220
+#: admin/pages/price-table/price-table-2.php:339
+#: admin/pages/price-table/price-table-6.php:254
+#: admin/pages/price-table/price-table-3.php:662
+#: admin/pages/price-table/price-table-4.php:490
+msgid "Sign up"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:254
+msgid "HEllO, I'm"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:265
+msgid "ABOUT"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:270
+msgid "Professional Profile"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:281
+#: template/profile-public/profile-template-1.php:398
+#: template/profile-public/profile-template-3.php:182
+#: template/private-profile/profile-billing-address.php:32
+msgid "Phone"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:285
+#: template/profile-public/profile-template-1.php:404
+#: template/profile-public/profile-template-4.php:334
+#: template/profile-public/profile-template-3.php:188
+msgid "Mobile"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:290
+#: template/profile-public/profile-template-1.php:412
+#: template/profile-public/profile-template-3.php:198
+#: template/signup/wizard-style-1.php:653
+msgid "Email"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:295
+#: template/profile-public/profile-template-4.php:343
+#: template/private-profile/profile-billing-address.php:38
+msgid "Address"
+msgstr ""
+
+#: template/profile-public/profile-template-2.php:314
+msgid "SEND MESSAGE"
+msgstr ""
+
+#: template/profile-public/profile-template-1.php:355
+#: template/profile-public/profile-template-4.php:289
+#: template/private-profile/profile-setting-1.php:6
+msgid "Profile"
+msgstr ""
+
+#: template/profile-public/profile-template-1.php:418
+msgid "Website"
+msgstr ""
+
+#: template/profile-public/profile-template-1.php:440
+msgid "Posts"
+msgstr ""
+
+#: template/profile-public/profile-template-1.php:467
+msgid "Post date:"
+msgstr ""
+
+#: template/profile-public/profile-template-4.php:309
+msgid "Contact Info"
+msgstr ""
+
+#: template/profile-public/profile-template-4.php:338
+msgid "Occupation"
+msgstr ""
+
+#: template/profile-public/profile-template-4.php:351
+msgid "Bio"
+msgstr ""
+
+#: template/profile-public/profile-template-4.php:376
+msgid "Recent post"
+msgstr ""
+
+#: template/profile-public/profile-template-4.php:414
+msgid "Post date"
+msgstr ""
+
+#: template/profile-public/profile-template-3.php:222
+msgid "Send Message"
+msgstr ""
+
+#: template/profile-public/profile-template-5.php:679
+#: template/private-profile/profile-template-1.php:587
+msgid "About"
+msgstr ""
+
+#: template/profile-public/profile-template-5.php:742
+msgid "User Post"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:439
+msgid "Change Image"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:497
+msgid "Account Settings "
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:513
+#: template/private-profile/profile-all-post-1.php:26
+msgid "All"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:528
+msgid "New"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:543
+#: template/private-profile/profile-billing-address.php:5
+msgid "Billing Address"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:571
+msgid "Sign out"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:656
+#: template/private-profile/profile-template-1.php:658
+msgid "Profile Image"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:16
+msgid "First Name"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:22
+msgid "Last Name"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:27
+msgid "Company"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:42
+msgid "Address 2"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:47
+msgid "City"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:48
+msgid "Enter City"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:51
+msgid "State"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:52
+msgid "Enter State"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:55
+msgid "Zip"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:56
+msgid "Enter Zip"
+msgstr ""
+
+#: template/private-profile/profile-billing-address.php:335
+#: template/private-profile/profile-setting-1.php:105
+#: template/private-profile/profile-setting-1.php:155
+#: template/private-profile/profile-setting-1.php:197
+msgid "Save Changes"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:70
+#: template/private-profile/profile-edit-post-1.php:62
+#: template/private-profile/profile-new-post-1.php:63
+msgid "Title"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:72
+msgid "Status"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:73
+msgid "Actions"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:110
+#: template/private-profile/profile-edit-post-1.php:6
+#: template/private-profile/profile-edit-post-1.php:114
+msgid "Edit"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:111
+msgid "Are you sure to delete this post?"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:111
+msgid "Delete"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:10
+msgid "Personal Info"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:13
+#: template/private-profile/profile-setting-1.php:127
+msgid "Change Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:16
+msgid "Social"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:19
+msgid "Privacy Settings"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:114
+msgid "Current Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:118
+msgid "New Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:122
+msgid "Re-type New Password"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:136
+msgid "FaceBook"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:140
+msgid "Linkedin"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:144
+msgid "Twitter"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:148
+msgid "Google+"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:167
+msgid "Hide Email Address "
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:171
+#: template/private-profile/profile-setting-1.php:180
+#: template/private-profile/profile-setting-1.php:189
+msgid "Yes"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:176
+msgid "Hide Phone Number"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:185
+msgid "Hide Mobile Number"
+msgstr ""
+
+#: template/private-profile/profile-login.php:515
+msgid "Sign In"
+msgstr ""
+
+#: template/private-profile/profile-login.php:521
+msgid "Username"
+msgstr ""
+
+#: template/private-profile/profile-login.php:525
+#: template/signup/wizard-style-2.php:208
+#: template/signup/wizard-style-1.php:656
+msgid "Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:530
+#: template/private-profile/profile-edit-post-1.php:50
+msgid "Login"
+msgstr ""
+
+#: template/private-profile/profile-login.php:534
+msgid "Remember"
+msgstr ""
+
+#: template/private-profile/profile-login.php:537
+msgid "Forgot Password?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:545
+msgid "Create an account"
+msgstr ""
+
+#: template/private-profile/profile-login.php:553
+msgid "Forget Password ?"
+msgstr ""
+
+#: template/private-profile/profile-login.php:555
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: template/private-profile/profile-login.php:564
+msgid "Back"
+msgstr ""
+
+#: template/private-profile/profile-login.php:565
+#: template/private-profile/iv_stripe_form_upgrade.php:193
+#: template/signup/iv_stripe_form_2.php:219
+#: template/signup/iv_stripe_form_1.php:217
+#: template/signup/paypal_form_1.php:177 template/signup/paypal_form_1.php:183
+#: template/signup/paypal_form_2.php:178 template/signup/paypal_form_2.php:184
+msgid "Submit"
+msgstr ""
+
+#: template/private-profile/profile-login.php:591
+msgid "Password Sent. Please check your email"
+msgstr ""
+
+#: template/private-profile/profile-login.php:600
+msgid "Enter Email Address"
+msgstr ""
+
+#: template/private-profile/profile-login.php:625
+msgid "Invalid Username & Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:632
+msgid "Enter Username & Password"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:50
+msgid "Please"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:50
+msgid "To Edit The Post."
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:86
+#: template/private-profile/profile-new-post-1.php:87
+msgid "Feature Image"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:115
+msgid "Remove"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:120
+#: template/private-profile/profile-new-post-1.php:98
+msgid "Add"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:134
+#: template/private-profile/profile-new-post-1.php:104
+msgid "Custom Fields"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:158
+#: template/private-profile/profile-new-post-1.php:117
+msgid "More Field"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:163
+#: template/private-profile/profile-new-post-1.php:124
+msgid "Post Status"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:167
+#: template/private-profile/profile-new-post-1.php:128
+msgid "Pending Review"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:168
+#: template/private-profile/profile-new-post-1.php:129
+msgid "Draft"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:177
+#: template/private-profile/profile-new-post-1.php:138
+msgid "Category"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:197
+#: template/private-profile/profile-new-post-1.php:156
+msgid "Choose a category"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:226
+msgid "Update Post"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:289
+#: template/private-profile/profile-new-post-1.php:251
+msgid "Set Feature Image "
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:291
+#: template/private-profile/profile-new-post-1.php:253
+msgid "Set Feature Image"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:307
+msgid "Current"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:310
+#: template/private-profile/profile-level-1.php:582
+msgid "Upgrade"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:314
+msgid "Cancel"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:338
+msgid "Current Package"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:358
+msgid "Package Amount"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:388
+msgid "Package Type"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:398
+msgid "Payment Status"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:409
+msgid "User Role"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:429
+msgid "Exprie Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:450
+msgid "Next Payment Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:484
+#: template/private-profile/iv_stripe_form_upgrade.php:22
+#: template/signup/iv_stripe_form_2.php:21
+#: template/signup/iv_stripe_form_1.php:21 template/signup/paypal_form_1.php:2
+#: template/signup/paypal_form_2.php:2
+msgid "Package Name"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:520
+#: template/private-profile/iv_stripe_form_upgrade.php:59
+#: template/signup/iv_stripe_form_2.php:74
+#: template/signup/iv_stripe_form_1.php:72
+#: template/signup/paypal_form_1.php:59 template/signup/paypal_form_2.php:59
+msgid "Amount"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:608
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:624
+#: template/private-profile/profile-level-1.php:663
+msgid "Cancel Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:625
+#: template/private-profile/profile-level-1.php:664
+msgid "Canceling Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:631
+#: template/private-profile/profile-level-1.php:669
+msgid "Cancel Membership"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:641
+#: template/private-profile/profile-level-1.php:678
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:113
+#: template/signup/iv_stripe_form_2.php:139
+#: template/signup/iv_stripe_form_1.php:137
+#: files/short_code_file/iv_stripe_form_display.php:3
+msgid "Card Number"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:115
+#: template/signup/iv_stripe_form_2.php:141
+#: template/signup/iv_stripe_form_1.php:139
+msgid "Enter card number"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:115
+#: template/signup/iv_stripe_form_2.php:141
+#: template/signup/iv_stripe_form_1.php:139
+msgid "Card number is not correct"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:119
+#: template/signup/iv_stripe_form_2.php:145
+#: template/signup/iv_stripe_form_1.php:143
+msgid "Card CVV"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:126
+#: template/signup/iv_stripe_form_2.php:152
+#: template/signup/iv_stripe_form_1.php:150
+#: files/short_code_file/iv_stripe_form_display.php:11
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:6
+msgid "Add New"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:50
+msgid "Please Upgrade Your Account"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:51
+msgid "Here"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:51
+msgid "To Add More Post"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:66
+msgid "Enter Title Here"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:107
+msgid "Custom Field Name"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:109
+msgid "Value"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:185
+msgid "Save Post"
+msgstr ""
+
+#: template/user-directory/directory-template-1.php:326
+#: template/user-directory/directory-template-2.php:297
+#: template/signup/wizard-style-2.php:194
+#: template/signup/wizard-style-1.php:647
+msgid "User Name"
+msgstr ""
+
+#: template/user-directory/directory-template-1.php:468
+#: template/user-directory/directory-template-2.php:435
+msgid "No users found"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:86
+#: template/signup/iv_stripe_form_1.php:84
+#: template/signup/paypal_form_1.php:72 template/signup/paypal_form_2.php:72
+msgid "Have a coupon?"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:132
+#: template/signup/iv_stripe_form_1.php:130
+#: template/signup/paypal_form_1.php:121 template/signup/paypal_form_2.php:121
+msgid "Total"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:148
+#: template/signup/iv_stripe_form_1.php:146
+msgid "CVV number is not correct"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:148
+#: template/signup/iv_stripe_form_1.php:146
+msgid "Enter card CVC"
+msgstr ""
+
+#: template/signup/coupon_form_1.php:4 template/signup/coupon_form_2.php:4
+msgid "Discount Coupon"
+msgstr ""
+
+#: template/signup/coupon_form_1.php:15 template/signup/coupon_form_2.php:15
+msgid "(-) Discount"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:168
+#: template/signup/wizard-style-1.php:640
+msgid "User Info"
+msgstr "Info utente"
+
+#: template/signup/wizard-style-2.php:197
+#: template/signup/wizard-style-1.php:649
+msgid "The user name has to be an alphanumeric value between 4-12 characters"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:197
+msgid "Enter User Name"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:202
+#: template/signup/wizard-style-1.php:652
+msgid "Email Address"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:204
+msgid "Enter email address"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:204
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: template/signup/wizard-style-2.php:495
+#: template/signup/wizard-style-1.php:936
+msgid "Select Country"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:526
+#: template/signup/wizard-style-1.php:972
+msgid "Payment Info"
+msgstr "Informazioni pagamento"
+
+#: files/short_code_file/iv_stripe_form_display.php:7
+msgid "CVC"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:18
+msgid "Payment Type:"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:19
+msgid "One time payment"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:20
+msgid "Recurring monthly payment"
+msgstr ""
+
+#: files/short_code_file/iv_stripe_form_display.php:26
+msgid "Submit Payment"
+msgstr ""
+
+#: inc/widget.php:22 inc/widget.php:42
+msgid "Form"
+msgstr ""
+
+#: inc/widget.php:35
+msgid "Form List"
+msgstr ""
